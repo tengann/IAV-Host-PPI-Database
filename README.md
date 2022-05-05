@@ -1,3 +1,3 @@
-# IAV_PPI_GUI
+# IAV-Host PPI Database
 
-### https://iav-ppi.herokuapp.com/home
+#### The IAV-Host PPI database can be accessed at https://iav-ppi.herokuapp.com/home
