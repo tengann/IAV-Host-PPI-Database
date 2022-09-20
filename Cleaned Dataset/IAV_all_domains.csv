@@ -1,0 +1,971 @@
+TaxonomyID,Segment,UniProt_ID,vFamilyID,vSuperfamily,vSCOP
+387139,PB2,I6T1Z7,160453,PB2 C-terminal domain-like,688-756
+542615,PB2,D6NEP4,160453,PB2 C-terminal domain-like,689-756
+476294,PB2,B6A6V1,160453,PB2 C-terminal domain-like,688-756
+504904,PB2,D5F1Q4,160453,PB2 C-terminal domain-like,688-756
+1460490,PB2,W8NQ94,160453,PB2 C-terminal domain-like,688-756
+641501,PB2,C3W5R8,160453,PB2 C-terminal domain-like,688-756
+641809,PB2,C3W5X5,160453,PB2 C-terminal domain-like,688-756
+542846,PB2,B4ZGL8,160453,PB2 C-terminal domain-like,688-756
+2026012,PB2,A0A2D0YP78,160453,PB2 C-terminal domain-like,688-756
+430432,PB2,D1MKX6,160453,PB2 C-terminal domain-like,688-756
+432073,PB2,Q5DLC1,160453,PB2 C-terminal domain-like,688-756
+251307,PB2,Q6VE62,160453,PB2 C-terminal domain-like,697-765
+560581,PB2,L7NBL6,160453,PB2 C-terminal domain-like,688-756
+1954199,PB2,A0A1X9JIH0,160453,PB2 C-terminal domain-like,688-756
+320306,PB2,Q1W0Y6,160453,PB2 C-terminal domain-like,688-756
+1608684,PB2,A0A109NPG8,160453,PB2 C-terminal domain-like,688-756
+1608679,PB2,A0A0X7YXR3,160453,PB2 C-terminal domain-like,688-756
+1608681,PB2,A0A0X7YVT3,160453,PB2 C-terminal domain-like,688-756
+274827,PB2,Q6E3N4,160453,PB2 C-terminal domain-like,688-756
+482239,PB2,B0Z5J7,160453,PB2 C-terminal domain-like,688-756
+274837,PB2,Q6E3M4,160453,PB2 C-terminal domain-like,688-756
+482240,PB2,B0Z5K8,160453,PB2 C-terminal domain-like,688-756
+274838,PB2,Q6E3M3,160453,PB2 C-terminal domain-like,688-756
+274840,PB2,Q6E3M1,160453,PB2 C-terminal domain-like,688-756
+1503700,PB2,A0A2H4C080,160453,PB2 C-terminal domain-like,688-756
+329182,PB2,Q0A3W6,160453,PB2 C-terminal domain-like,688-756
+307622,PB2,Q5EML9,160453,PB2 C-terminal domain-like,688-756
+385580,PB2,Q20P16,160453,PB2 C-terminal domain-like,688-756
+326490,PB2,Q4H2D6,160453,PB2 C-terminal domain-like,688-756
+1855218,PB2,A0A1B0Y3Z6,160453,PB2 C-terminal domain-like,688-756
+1923885,PB2,A0A1P8D5H2,160453,PB2 C-terminal domain-like,688-756
+367120,PB2,Q82573,160453,PB2 C-terminal domain-like,688-756
+1608688,PB2,A0A0X7YPX4,160453,PB2 C-terminal domain-like,688-756
+1612661,PB2,A0A0D3S062,160453,PB2 C-terminal domain-like,688-756
+872290,PB2,G9B9D5,160453,PB2 C-terminal domain-like,688-756
+710473,PB2,D8X0E6,160453,PB2 C-terminal domain-like,688-756
+506350,PB2,Q91MB1,160453,PB2 C-terminal domain-like,688-756
+130763,PB2,O56266,160453,PB2 C-terminal domain-like,688-756
+107423,PB2,Q9INN9,160453,PB2 C-terminal domain-like,688-756
+88104,PB2,Q9IP64,160453,PB2 C-terminal domain-like,688-756
+680692,PB2,Q9IP63,160453,PB2 C-terminal domain-like,688-756
+107424,PB2,Q9IBY8,160453,PB2 C-terminal domain-like,688-756
+155222,PB2,Q91TX7,160453,PB2 C-terminal domain-like,87-106
+155223,PB2,Q91TX6,160453,PB2 C-terminal domain-like,88-106
+88103,PB2,Q91TY2,160453,PB2 C-terminal domain-like,688-756
+155219,PB2,Q91TY1,160453,PB2 C-terminal domain-like,688-756
+155220,PB2,Q91TY0,160453,PB2 C-terminal domain-like,688-756
+88097,PB2,Q91TX9,160453,PB2 C-terminal domain-like,688-756
+644289,PB2,C4RTH2,160453,PB2 C-terminal domain-like,688-756
+1429810,PB2,V9TK12,160453,PB2 C-terminal domain-like,688-756
+1429812,PB2,V9TIV5,160453,PB2 C-terminal domain-like,688-756
+990089,PB2,M9QW72,160453,PB2 C-terminal domain-like,688-756
+1494073,PB2,A0A088CC44,160453,PB2 C-terminal domain-like,688-756
+1465588,PB2,A0A0A0PVN9,160453,PB2 C-terminal domain-like,688-756
+383588,PB2,P26117,160453,PB2 C-terminal domain-like,688-756
+644882,PB2,C4RTV2,160453,PB2 C-terminal domain-like,688-756
+644884,PB2,G2TZW8,160453,PB2 C-terminal domain-like,688-756
+643780,PB2,C3W6M3,160453,PB2 C-terminal domain-like,688-756
+645520,PB2,C4RUB9,160453,PB2 C-terminal domain-like,688-756
+680693,PB2,Q6VE63,160453,PB2 C-terminal domain-like,697-765
+643212,PB2,C8XNW6,160453,PB2 C-terminal domain-like,688-756
+381512,PB2,I7DBQ7,160453,PB2 C-terminal domain-like,688-756
+379756,PB2,C4LND1,160453,PB2 C-terminal domain-like,686-754
+519082,PB2,B3GUG3,160453,PB2 C-terminal domain-like,688-756
+643960,PB2,C5E527,160453,PB2 C-terminal domain-like,688-756
+327172,PB2,Q3M0S9,160453,PB2 C-terminal domain-like,688-756
+382819,PB2,A0A0C6DRV1,160453,PB2 C-terminal domain-like,678-746
+381513,PB2,Q1NZ46,160453,PB2 C-terminal domain-like,688-756
+382825,PB2,D8KS98,160453,PB2 C-terminal domain-like,688-756
+211044,PB2,P03428,160453,PB2 C-terminal domain-like,688-756
+384493,PB2,Q2VC93,160453,PB2 C-terminal domain-like,688-756
+647100,PB2,C5MRW5,160453,PB2 C-terminal domain-like,688-756
+1429813,PB2,V9TFJ8,160453,PB2 C-terminal domain-like,688-756
+990090,PB2,V9TFG6,160453,PB2 C-terminal domain-like,688-756
+437342,PB2,A6M5M4,160453,PB2 C-terminal domain-like,688-756
+666651,PB2,C8CT30,160453,PB2 C-terminal domain-like,688-756
+1176104,PB2,J9V498,160453,PB2 C-terminal domain-like,688-756
+374443,PB2,Q1G7L9,160453,PB2 C-terminal domain-like,688-756
+374439,PB2,Q1G7N0,160453,PB2 C-terminal domain-like,688-756
+1068961,PB2,G0KR24,160453,PB2 C-terminal domain-like,688-756
+646491,PB2,C5E710,160453,PB2 C-terminal domain-like,688-756
+644199,PB2,C4RUM4,160453,PB2 C-terminal domain-like,688-756
+266827,PB2,Q5QF18,160453,PB2 C-terminal domain-like,688-756
+428669,PB2,A4GXF5,160453,PB2 C-terminal domain-like,688-756
+427773,PB2,A3RMF3,160453,PB2 C-terminal domain-like,692-760
+402526,PB2,Q0A2I8,160453,PB2 C-terminal domain-like,688-756
+392809,PB2,P31345,160453,PB2 C-terminal domain-like,688-756
+284218,PB2,Q6DNN3,160453,PB2 C-terminal domain-like,688-756
+428668,PB2,A4GXF4,160453,PB2 C-terminal domain-like,688-756
+381518,PB2,P03427,160453,PB2 C-terminal domain-like,688-756
+393902,PB2,B4URD5,160453,PB2 C-terminal domain-like,688-756
+132504,PB2,Q9IQ45,160453,PB2 C-terminal domain-like,688-756
+88097,PB1,Q91TZ5,56672,DNA/RNA polymerases,"168-329, 384-499"
+211044,PB1,P03431,56672,DNA/RNA polymerases,"211-329, 391-499"
+132504,PB1,Q9IQ46,56672,DNA/RNA polymerases,"222-329, 391-499"
+387139,HA,P03437,49818,Viral protein domain,29-341
+387139,HA,P03437,58064,Influenza hemagglutinin (stalk),346-520
+1413188,HA,V5LXD8,49818,Viral protein domain,21-334
+1413188,HA,V5LXD8,58064,Influenza hemagglutinin (stalk),340-513
+542615,HA,D6NDX6,49818,Viral protein domain,17-337
+542615,HA,D6NDX6,58064,Influenza hemagglutinin (stalk),343-517
+476294,HA,B6A6U1,49818,Viral protein domain,29-341
+476294,HA,B6A6U1,58064,Influenza hemagglutinin (stalk),346-520
+504904,HA,D5F1Q8,49818,Viral protein domain,18-338
+504904,HA,D5F1Q8,58064,Influenza hemagglutinin (stalk),344-518
+1460490,HA,W8NQ99,49818,Viral protein domain,17-337
+1460490,HA,W8NQ99,58064,Influenza hemagglutinin (stalk),346-520
+641501,HA,C3W5S1,49818,Viral protein domain,18-339
+641501,HA,C3W5S1,58064,Influenza hemagglutinin (stalk),345-519
+641809,HA,C3W5X2,49818,Viral protein domain,18-339
+641809,HA,C3W5X2,58064,Influenza hemagglutinin (stalk),345-519
+1565433,HA,A8D9S4,49818,Viral protein domain,21-334
+1565433,HA,A8D9S4,58064,Influenza hemagglutinin (stalk),347-520
+244949,HA,Q6W923,49818,Viral protein domain,18-336
+244949,HA,Q6W923,58064,Influenza hemagglutinin (stalk),350-523
+542846,HA,B4ZGK8,49818,Viral protein domain,21-326
+542846,HA,B4ZGK8,58064,Influenza hemagglutinin (stalk),332-505
+2026012,HA,A0A2D0Z8H0,49818,Viral protein domain,21-334
+2026012,HA,A0A2D0Z8H0,58064,Influenza hemagglutinin (stalk),344-517
+430432,HA,A4GXN3,49818,Viral protein domain,17-337
+430432,HA,A4GXN3,58064,Influenza hemagglutinin (stalk),347-521
+432073,HA,Q5DLA9,49818,Viral protein domain,17-337
+432073,HA,Q5DLA9,58064,Influenza hemagglutinin (stalk),346-520
+251307,HA,Q6VMK2,49818,Viral protein domain,18-338
+251307,HA,Q6VMK2,58064,Influenza hemagglutinin (stalk),342-515
+121451,HA,Q9E7R9,49818,Viral protein domain,17-335
+121451,HA,Q9E7R9,58064,Influenza hemagglutinin (stalk),342-515
+560581,HA,B5U6F5,49818,Viral protein domain,19-334
+560581,HA,B5U6F5,58064,Influenza hemagglutinin (stalk),339-513
+1954199,HA,A0A1X9JIF8,49818,Viral protein domain,17-337
+1954199,HA,A0A1X9JIF8,58064,Influenza hemagglutinin (stalk),346-520
+320306,HA,Q30CC1,49818,Viral protein domain,17-337
+320306,HA,Q30CC1,58064,Influenza hemagglutinin (stalk),347-521
+1608684,HA,A0A0X7YRQ9,49818,Viral protein domain,17-337
+1608684,HA,A0A0X7YRQ9,58064,Influenza hemagglutinin (stalk),346-520
+1608679,HA,A0A0X7YQ12,49818,Viral protein domain,17-337
+1608679,HA,A0A0X7YQ12,58064,Influenza hemagglutinin (stalk),346-520
+1608681,HA,A0A0X7YQ16,49818,Viral protein domain,17-337
+1608681,HA,A0A0X7YQ16,58064,Influenza hemagglutinin (stalk),346-520
+274827,HA,Q6E431,49818,Viral protein domain,17-337
+274827,HA,Q6E431,58064,Influenza hemagglutinin (stalk),347-521
+482239,HA,B0Z5K1,49818,Viral protein domain,17-337
+482239,HA,B0Z5K1,58064,Influenza hemagglutinin (stalk),347-521
+274837,HA,Q6E424,49818,Viral protein domain,17-337
+274837,HA,Q6E424,58064,Influenza hemagglutinin (stalk),347-521
+482240,HA,B0Z5L2,49818,Viral protein domain,17-337
+482240,HA,B0Z5L2,58064,Influenza hemagglutinin (stalk),347-521
+274838,HA,Q6E423,49818,Viral protein domain,17-337
+274838,HA,Q6E423,58064,Influenza hemagglutinin (stalk),347-521
+274840,HA,Q6E422,49818,Viral protein domain,17-337
+274840,HA,Q6E422,58064,Influenza hemagglutinin (stalk),347-521
+1503700,HA,A0A2H4C078,49818,Viral protein domain,17-337
+1503700,HA,A0A2H4C078,58064,Influenza hemagglutinin (stalk),346-520
+329182,HA,Q0A3X4,49818,Viral protein domain,17-337
+329182,HA,Q0A3X4,58064,Influenza hemagglutinin (stalk),343-517
+307622,HA,Q5EMN7,49818,Viral protein domain,17-337
+307622,HA,Q5EMN7,58064,Influenza hemagglutinin (stalk),347-521
+385580,HA,P03442,49818,Viral protein domain,29-341
+385580,HA,P03442,58064,Influenza hemagglutinin (stalk),346-520
+326490,HA,Q4H2D3,49818,Viral protein domain,17-337
+326490,HA,Q4H2D3,58064,Influenza hemagglutinin (stalk),347-521
+1855218,HA,A0A1B0YGV3,49818,Viral protein domain,17-337
+1855218,HA,A0A1B0YGV3,58064,Influenza hemagglutinin (stalk),346-520
+1923885,HA,A0A1P8D5G4,49818,Viral protein domain,17-336
+1923885,HA,A0A1P8D5G4,58064,Influenza hemagglutinin (stalk),345-519
+367120,HA,Q84114,49818,Viral protein domain,18-339
+367120,HA,Q84114,58064,Influenza hemagglutinin (stalk),345-519
+1608688,HA,A0A109VT51,49818,Viral protein domain,17-337
+1608688,HA,A0A109VT51,58064,Influenza hemagglutinin (stalk),346-520
+1612661,HA,A0A0D3S0L7,49818,Viral protein domain,17-337
+1612661,HA,A0A0D3S0L7,58064,Influenza hemagglutinin (stalk),346-520
+226647,HA,Q80I99,49818,Viral protein domain,21-326
+226647,HA,Q80I99,58064,Influenza hemagglutinin (stalk),332-505
+872290,HA,G9B9D8,49818,Viral protein domain,18-339
+872290,HA,G9B9D8,58064,Influenza hemagglutinin (stalk),345-519
+710473,HA,E7D4R0,49818,Viral protein domain,18-339
+710473,HA,E7D4R0,58064,Influenza hemagglutinin (stalk),345-519
+506350,HA,Q91MA7,49818,Viral protein domain,29-341
+506350,HA,Q91MA7,58064,Influenza hemagglutinin (stalk),346-520
+130763,HA,O56140,49818,Viral protein domain,17-337
+130763,HA,O56140,58064,Influenza hemagglutinin (stalk),347-521
+107423,HA,O92929,49818,Viral protein domain,17-337
+107423,HA,O92929,58064,Influenza hemagglutinin (stalk),347-521
+88104,HA,O92930,49818,Viral protein domain,17-337
+88104,HA,O92930,58064,Influenza hemagglutinin (stalk),347-521
+680692,HA,D1LN57,49818,Viral protein domain,17-337
+680692,HA,D1LN57,58064,Influenza hemagglutinin (stalk),347-521
+107424,HA,Q9IP49,49818,Viral protein domain,17-337
+107424,HA,Q9IP49,58064,Influenza hemagglutinin (stalk),347-521
+155222,HA,Q9WDF2,49818,Viral protein domain,1-321
+155222,HA,Q9WDF2,58064,Influenza hemagglutinin (stalk),331-505
+155223,HA,Q9WDF7,49818,Viral protein domain,1-321
+155223,HA,Q9WDF7,58064,Influenza hemagglutinin (stalk),331-505
+155224,HA,Q9WDF9,49818,Viral protein domain,1-321
+155224,HA,Q9WDF9,58064,Influenza hemagglutinin (stalk),331-505
+155225,HA,Q9WDF5,49818,Viral protein domain,1-321
+155225,HA,Q9WDF5,58064,Influenza hemagglutinin (stalk),331-505
+155226,HA,Q9WDG2,49818,Viral protein domain,1-321
+155226,HA,Q9WDG2,58064,Influenza hemagglutinin (stalk),331-505
+155227,HA,Q9WDF3,49818,Viral protein domain,1-321
+155227,HA,Q9WDF3,58064,Influenza hemagglutinin (stalk),331-505
+88103,HA,Q9WDG0,49818,Viral protein domain,1-321
+88103,HA,Q9WDG0,58064,Influenza hemagglutinin (stalk),331-505
+155219,HA,Q9WDF4,49818,Viral protein domain,1-321
+155219,HA,Q9WDF4,58064,Influenza hemagglutinin (stalk),331-505
+155220,HA,Q9WDF8,49818,Viral protein domain,1-321
+155220,HA,Q9WDF8,58064,Influenza hemagglutinin (stalk),331-505
+88097,HA,Q9WDF6,49818,Viral protein domain,1-321
+88097,HA,Q9WDF6,58064,Influenza hemagglutinin (stalk),331-505
+1088753,HA,G1UK23,49818,Viral protein domain,18-338
+1088753,HA,G1UK23,58064,Influenza hemagglutinin (stalk),344-518
+1088752,HA,G1UK18,49818,Viral protein domain,18-338
+1088752,HA,G1UK18,58064,Influenza hemagglutinin (stalk),344-518
+644289,HA,C5MQE6,49818,Viral protein domain,18-339
+644289,HA,C5MQE6,58064,Influenza hemagglutinin (stalk),345-519
+1429809,HA,V9TG74,49818,Viral protein domain,18-339
+1429809,HA,V9TG74,58064,Influenza hemagglutinin (stalk),345-519
+1429810,HA,V9TFM7,49818,Viral protein domain,18-339
+1429810,HA,V9TFM7,58064,Influenza hemagglutinin (stalk),345-519
+1429811,HA,V9TK56,49818,Viral protein domain,18-339
+1429811,HA,V9TK56,58064,Influenza hemagglutinin (stalk),345-519
+1429812,HA,V9THF5,49818,Viral protein domain,18-339
+1429812,HA,V9THF5,58064,Influenza hemagglutinin (stalk),345-519
+990089,HA,F1KM20,49818,Viral protein domain,18-339
+990089,HA,F1KM20,58064,Influenza hemagglutinin (stalk),345-519
+352520,HA,P26562,49818,Viral protein domain,18-339
+352520,HA,P26562,58064,Influenza hemagglutinin (stalk),345-519
+1494073,HA,A0A088CC46,49818,Viral protein domain,17-337
+1494073,HA,A0A088CC46,58064,Influenza hemagglutinin (stalk),346-520
+1465588,HA,A0A0A0PU35,49818,Viral protein domain,17-337
+1465588,HA,A0A0A0PU35,58064,Influenza hemagglutinin (stalk),346-520
+383588,HA,Q1I2G3,49818,Viral protein domain,29-341
+383588,HA,Q1I2G3,58064,Influenza hemagglutinin (stalk),346-520
+644882,HA,C4RST2,49818,Viral protein domain,18-339
+644882,HA,C4RST2,58064,Influenza hemagglutinin (stalk),345-519
+644884,HA,C4RSV3,49818,Viral protein domain,18-339
+644884,HA,C4RSV3,58064,Influenza hemagglutinin (stalk),345-519
+643780,HA,C3W6M5,49818,Viral protein domain,18-339
+643780,HA,C3W6M5,58064,Influenza hemagglutinin (stalk),345-519
+645520,HA,C4RU04,49818,Viral protein domain,18-339
+645520,HA,C4RU04,58064,Influenza hemagglutinin (stalk),345-519
+680693,HA,Q6VMK1,49818,Viral protein domain,21-334
+680693,HA,Q6VMK1,58064,Influenza hemagglutinin (stalk),342-515
+643212,HA,C3PSV2,49818,Viral protein domain,18-339
+643212,HA,C3PSV2,58064,Influenza hemagglutinin (stalk),345-519
+381512,HA,Q6WG00,49818,Viral protein domain,18-338
+381512,HA,Q6WG00,58064,Influenza hemagglutinin (stalk),344-518
+379756,HA,C4LNC1,49818,Viral protein domain,18-339
+379756,HA,C4LNC1,58064,Influenza hemagglutinin (stalk),345-519
+519082,HA,B2LVD7,49818,Viral protein domain,21-326
+519082,HA,B2LVD7,58064,Influenza hemagglutinin (stalk),332-505
+643960,HA,C5E518,49818,Viral protein domain,18-339
+643960,HA,C5E518,58064,Influenza hemagglutinin (stalk),345-519
+327172,HA,Q3M0T9,49818,Viral protein domain,18-338
+327172,HA,Q3M0T9,58064,Influenza hemagglutinin (stalk),344-518
+382819,HA,Q82751,49818,Viral protein domain,18-339
+382819,HA,Q82751,58064,Influenza hemagglutinin (stalk),345-519
+643704,HA,C4PKY2,49818,Viral protein domain,18-339
+643704,HA,C4PKY2,58064,Influenza hemagglutinin (stalk),345-519
+381513,HA,Q1NZ38,49818,Viral protein domain,29-341
+381513,HA,Q1NZ38,58064,Influenza hemagglutinin (stalk),346-520
+382825,HA,D8KS88,49818,Viral protein domain,29-341
+382825,HA,D8KS88,58064,Influenza hemagglutinin (stalk),346-520
+211044,HA,P03452,49818,Viral protein domain,18-338
+211044,HA,P03452,58064,Influenza hemagglutinin (stalk),344-518
+384493,HA,Q6LEJ4,49818,Viral protein domain,21-334
+384493,HA,Q6LEJ4,58064,Influenza hemagglutinin (stalk),340-513
+866353,HA,E2J3S3,49818,Viral protein domain,18-339
+866353,HA,E2J3S3,58064,Influenza hemagglutinin (stalk),345-519
+647100,HA,C5MRW0,49818,Viral protein domain,18-339
+647100,HA,C5MRW0,58064,Influenza hemagglutinin (stalk),345-519
+464623,HA,A7Y8I1,49818,Viral protein domain,18-338
+464623,HA,A7Y8I1,58064,Influenza hemagglutinin (stalk),344-518
+1429813,HA,V9TIX1,49818,Viral protein domain,18-339
+1429813,HA,V9TIX1,58064,Influenza hemagglutinin (stalk),345-519
+990090,HA,F1KM14,49818,Viral protein domain,18-339
+990090,HA,F1KM14,58064,Influenza hemagglutinin (stalk),345-519
+437342,HA,A6M5L4,49818,Viral protein domain,18-339
+437342,HA,A6M5L4,58064,Influenza hemagglutinin (stalk),345-519
+666651,HA,C8CT26,49818,Viral protein domain,18-339
+666651,HA,C8CT26,58064,Influenza hemagglutinin (stalk),345-519
+1176104,HA,J9VAC0,49818,Viral protein domain,17-344
+1176104,HA,J9VAC0,58064,Influenza hemagglutinin (stalk),345-519
+374443,HA,Q1G7M9,49818,Viral protein domain,18-339
+374443,HA,Q1G7M9,58064,Influenza hemagglutinin (stalk),345-519
+374439,HA,Q1G7P0,49818,Viral protein domain,29-341
+374439,HA,Q1G7P0,58064,Influenza hemagglutinin (stalk),346-519
+1068961,HA,G0KR28,49818,Viral protein domain,29-341
+1068961,HA,G0KR28,58064,Influenza hemagglutinin (stalk),346-520
+646491,HA,C5E528,49818,Viral protein domain,15-336
+646491,HA,C5E528,58064,Influenza hemagglutinin (stalk),342-516
+644199,HA,C4ALH6,49818,Viral protein domain,18-339
+644199,HA,C4ALH6,58064,Influenza hemagglutinin (stalk),345-519
+266827,HA,H8PF45,49818,Viral protein domain,17-337
+266827,HA,H8PF45,58064,Influenza hemagglutinin (stalk),347-521
+428669,HA,A5A5N1,49818,Viral protein domain,17-337
+428669,HA,A5A5N1,58064,Influenza hemagglutinin (stalk),347-521
+427773,HA,A5A5N3,49818,Viral protein domain,17-337
+427773,HA,A5A5N3,58064,Influenza hemagglutinin (stalk),347-521
+402526,HA,Q0A2J8,49818,Viral protein domain,21-334
+402526,HA,Q0A2J8,58064,Influenza hemagglutinin (stalk),342-515
+392809,HA,P03435,49818,Viral protein domain,30-342
+392809,HA,P03435,58064,Influenza hemagglutinin (stalk),347-521
+284218,HA,Q5EP31,49818,Viral protein domain,17-337
+284218,HA,Q5EP31,58064,Influenza hemagglutinin (stalk),347-521
+428668,HA,A5A5M7,49818,Viral protein domain,17-337
+428668,HA,A5A5M7,58064,Influenza hemagglutinin (stalk),347-521
+381518,HA,P03454,49818,Viral protein domain,18-338
+381518,HA,P03454,58064,Influenza hemagglutinin (stalk),344-518
+393902,HA,B2BV76,49818,Viral protein domain,29-341
+393902,HA,B2BV76,58064,Influenza hemagglutinin (stalk),346-520
+132504,HA,P03438,49818,Viral protein domain,29-341
+132504,HA,P03438,58064,Influenza hemagglutinin (stalk),346-520
+387139,NP,I6TAH8,161003,flu NP-like,21-489
+542615,NP,D6NDT6,161003,flu NP-like,21-489
+476294,NP,B6A6U5,161003,flu NP-like,21-489
+504904,NP,D5F1Q9,161003,flu NP-like,21-489
+1460490,NP,W8PGX4,161003,flu NP-like,21-489
+641501,NP,C3W5S2,161003,flu NP-like,22-489
+641809,NP,C3W621,161003,flu NP-like,22-489
+542846,NP,B4ZGL2,161003,flu NP-like,21-489
+2026012,NP,A0A2D0YP81,161003,flu NP-like,21-489
+430432,NP,D1MKX1,161003,flu NP-like,21-489
+432073,NP,Q5DLA5,161003,flu NP-like,21-489
+251307,NP,Q6VE49,161003,flu NP-like,21-489
+560581,NP,L7NBM5,161003,flu NP-like,21-489
+1954199,NP,A0A1X9JV31,161003,flu NP-like,21-489
+320306,NP,Q1W0Y9,161003,flu NP-like,21-489
+1608684,NP,A0A109NSV0,161003,flu NP-like,21-489
+1608679,NP,A0A0X7YXX5,161003,flu NP-like,21-489
+1608681,NP,A0A0X7YW01,161003,flu NP-like,21-489
+274827,NP,Q6E3W8,161003,flu NP-like,21-489
+482239,NP,B0Z5K2,161003,flu NP-like,21-489
+274837,NP,Q6E3V8,161003,flu NP-like,21-489
+482240,NP,B0Z5L3,161003,flu NP-like,21-489
+274838,NP,Q6E3V7,161003,flu NP-like,21-489
+274840,NP,Q6E3V5,161003,flu NP-like,21-489
+1503700,NP,A0A2H4C082,161003,flu NP-like,21-489
+329182,NP,Q0A3X1,161003,flu NP-like,21-489
+307622,NP,Q5EML6,161003,flu NP-like,21-489
+385580,NP,Q20P22,161003,flu NP-like,21-489
+326490,NP,Q4H2D2,161003,flu NP-like,21-489
+1855218,NP,A0A1B0YH40,161003,flu NP-like,21-489
+1923885,NP,A0A1P8D5G9,161003,flu NP-like,21-489
+367120,NP,P26070,161003,flu NP-like,21-489
+1608688,NP,A0A0X7YQ19,161003,flu NP-like,21-489
+1612661,NP,A0A0D3S067,161003,flu NP-like,21-489
+872290,NP,G9B9D9,161003,flu NP-like,22-489
+710473,NP,E5FQN3,161003,flu NP-like,22-489
+506350,NP,P22435,161003,flu NP-like,21-489
+130763,NP,O92784,161003,flu NP-like,21-489
+107423,NP,Q9ICY6,161003,flu NP-like,21-489
+88104,NP,Q9IP53,161003,flu NP-like,21-489
+680692,NP,Q9IP52,161003,flu NP-like,21-489
+107424,NP,Q77RI5,161003,flu NP-like,21-489
+155222,NP,Q91U44,161003,flu NP-like,1-210
+155223,NP,Q91U42,161003,flu NP-like,2-214
+155224,NP,Q91U40,161003,flu NP-like,1-191
+155225,NP,Q91U38,161003,flu NP-like,1-121
+155226,NP,Q91U37,161003,flu NP-like,21-72
+155227,NP,Q91U34,161003,flu NP-like,1-197
+88103,NP,Q77MC8,161003,flu NP-like,21-489
+155219,NP,Q91U49,161003,flu NP-like,21-489
+155220,NP,Q91U48,161003,flu NP-like,21-489
+88097,NP,Q910G0,161003,flu NP-like,21-489
+644289,NP,C5MQE7,161003,flu NP-like,22-489
+1429809,NP,V9THE3,161003,flu NP-like,22-489
+1429810,NP,V9TK45,161003,flu NP-like,22-489
+1429811,NP,V9TGF1,161003,flu NP-like,22-489
+1429812,NP,V9TIV9,161003,flu NP-like,22-489
+990089,NP,M9R1I2,161003,flu NP-like,22-489
+352520,NP,Q20P35,161003,flu NP-like,21-489
+1494073,NP,A0A088CD91,161003,flu NP-like,21-489
+1465588,NP,A0A0A0PYK8,161003,flu NP-like,21-489
+383588,NP,P69295,161003,flu NP-like,21-489
+644882,NP,C4RST3,161003,flu NP-like,22-489
+644884,NP,C4RSV5,161003,flu NP-like,22-489
+643780,NP,C3W6N7,161003,flu NP-like,22-489
+645520,NP,C4RUB4,161003,flu NP-like,22-489
+680693,NP,Q6VE51,161003,flu NP-like,21-489
+643212,NP,C8XNW9,161003,flu NP-like,22-489
+381512,NP,I7CB60,161003,flu NP-like,21-489
+379756,NP,P26074,161003,flu NP-like,22-489
+519082,NP,B2LVE0,161003,flu NP-like,18-481
+643960,NP,C5E522,161003,flu NP-like,22-489
+327172,NP,Q3M0T5,161003,flu NP-like,21-489
+381513,NP,Q1NZ39,161003,flu NP-like,21-489
+382825,NP,D8KS92,161003,flu NP-like,21-489
+211044,NP,P03466,161003,flu NP-like,21-489
+384493,NP,P26053,161003,flu NP-like,21-489
+647100,NP,C5MRW2,161003,flu NP-like,22-489
+464623,NP,C9S3S8,161003,flu NP-like,21-489
+1429813,NP,V9TFK4,161003,flu NP-like,22-489
+990090,NP,V9TIT7,161003,flu NP-like,22-489
+437342,NP,A6M5L8,161003,flu NP-like,22-489
+666651,NP,C8CT32,161003,flu NP-like,22-489
+1176104,NP,J9V6A0,161003,flu NP-like,21-489
+374443,NP,Q1G7M5,161003,flu NP-like,21-489
+374439,NP,Q1G7N6,161003,flu NP-like,21-489
+1068961,NP,G0KR29,161003,flu NP-like,22-489
+644199,NP,C4ALG9,161003,flu NP-like,22-489
+266827,NP,Q5L4F7,161003,flu NP-like,21-489
+428669,NP,A5A5U6,161003,flu NP-like,21-489
+427773,NP,A4GXG5,161003,flu NP-like,21-489
+402526,NP,Q0A2J4,161003,flu NP-like,21-489
+392809,NP,H9XII9,161003,flu NP-like,21-489
+284218,NP,Q5EP28,161003,flu NP-like,21-489
+381518,NP,P15682,161003,flu NP-like,21-489
+393902,NP,B4URC9,161003,flu NP-like,21-489
+132504,NP,Q91UL1,161003,flu NP-like,21-489
+387139,NA,Q75VQ4,50939,Sialidases,83-468
+542615,NA,D6NE15,50939,Sialidases,83-468
+476294,NA,A8W8R2,50939,Sialidases,83-467
+504904,NA,D5F1R0,50939,Sialidases,87-468
+1460490,NA,W8P1V6,50939,Sialidases,81-466
+244949,NA,Q6W917,50939,Sialidases,82-466
+542846,NA,B4ZGL1,50939,Sialidases,67-452
+2026012,NA,A0A2D0Z4R1,50939,Sialidases,79-464
+430432,NA,A4GXN5,50939,Sialidases,68-446
+432073,NA,Q5DLA1,50939,Sialidases,68-446
+251307,NA,Q6VGI9,50939,Sialidases,83-470
+1954199,NA,A0A1X9JS65,50939,Sialidases,82-466
+320306,NA,Q30CC2,50939,Sialidases,68-446
+1608684,NA,A0A109VN20,50939,Sialidases,73-459
+1608679,NA,A0A109VIB9,50939,Sialidases,84-469
+1608681,NA,A0A109VT64,50939,Sialidases,73-459
+274827,NA,Q6E3Y9,50939,Sialidases,68-446
+482239,NA,B0Z5K3,50939,Sialidases,68-446
+274837,NA,Q6E3X9,50939,Sialidases,88-466
+482240,NA,B0Z5L4,50939,Sialidases,68-446
+274838,NA,Q6E3X8,50939,Sialidases,88-466
+274840,NA,Q6E3X6,50939,Sialidases,68-446
+1503700,NA,A0A2H4C077,50939,Sialidases,79-468
+307622,NA,Q5EMN6,50939,Sialidases,68-446
+385580,NA,Q07599,50939,Sialidases,81-466
+326490,NA,Q4H2D1,50939,Sialidases,88-466
+1855218,NA,A0A1B0Y3R6,50939,Sialidases,81-466
+1923885,NA,A0A1P8D5F8,50939,Sialidases,72-458
+367120,NA,Q8JSD9,50939,Sialidases,88-466
+1608688,NA,A0A109NPJ5,50939,Sialidases,73-459
+1612661,NA,A0A0D3S036,50939,Sialidases,72-458
+872290,NA,G9B9E0,50939,Sialidases,88-466
+710473,NA,E7D4R1,50939,Sialidases,88-466
+506350,NA,Q91MA2,50939,Sialidases,83-468
+130763,NA,Q9W7Y7,50939,Sialidases,69-447
+107423,NA,Q9IP58,50939,Sialidases,69-447
+88104,NA,Q9IP56,50939,Sialidases,69-447
+680692,NA,Q9IP55,50939,Sialidases,69-447
+107424,NA,Q9IP54,50939,Sialidases,69-447
+155222,NA,Q9WDD7,50939,Sialidases,69-447
+155223,NA,Q9WDE5,50939,Sialidases,69-447
+155224,NA,Q9WDE6,50939,Sialidases,69-447
+155225,NA,Q9WDD9,50939,Sialidases,69-447
+155226,NA,Q9WDE9,50939,Sialidases,69-447
+155227,NA,Q9WDE0,50939,Sialidases,69-447
+88103,NA,Q9WDE7,50939,Sialidases,70-447
+155219,NA,Q9WDE2,50939,Sialidases,69-447
+155220,NA,Q9WDF0,50939,Sialidases,69-447
+88097,NA,Q9WDE1,50939,Sialidases,69-447
+1088753,NA,G1UK24,50939,Sialidases,88-467
+1088752,NA,G1UK19,50939,Sialidases,87-468
+644289,NA,C5MQP8,50939,Sialidases,88-466
+1429809,NA,V9TIV0,50939,Sialidases,88-466
+1429810,NA,V9TGE1,50939,Sialidases,88-466
+1429811,NA,V9THJ8,50939,Sialidases,88-466
+1429812,NA,V9TFJ3,50939,Sialidases,88-466
+352520,NA,Q9IGQ1,50939,Sialidases,88-466
+1494073,NA,A0A088CBR8,50939,Sialidases,81-466
+1465588,NA,A0A0A0PVP4,50939,Sialidases,81-466
+383588,NA,Q1I2G0,50939,Sialidases,83-467
+644884,NA,C4RSV2,50939,Sialidases,88-466
+680693,NA,Q6VGI7,50939,Sialidases,83-470
+643212,NA,C3PSV3,50939,Sialidases,88-466
+381512,NA,Q7TG96,50939,Sialidases,88-467
+379756,NA,Q76WJ1,50939,Sialidases,88-466
+519082,NA,B2LVE1,50939,Sialidases,67-452
+327172,NA,Q3M0T6,50939,Sialidases,88-467
+382819,NA,E0AGI4,50939,Sialidases,70-230
+381513,NA,Q8AZB6,50939,Sialidases,83-467
+382825,NA,D8KS91,50939,Sialidases,83-467
+211044,NA,P03468,50939,Sialidases,71-451
+384493,NA,Q2VC95,50939,Sialidases,82-469
+866353,NA,E2J3S4,50939,Sialidases,88-466
+647100,NA,C5MRW1,50939,Sialidases,88-466
+464623,NA,A7Y8A4,50939,Sialidases,88-457
+1429813,NA,V9TJZ0,50939,Sialidases,88-466
+437342,NA,A6M5L7,50939,Sialidases,88-466
+666651,NA,C8CT27,50939,Sialidases,88-466
+1176104,NA,J9URN6,50939,Sialidases,83-467
+374443,NA,Q1G7M6,50939,Sialidases,88-466
+374439,NA,Q1G7N7,50939,Sialidases,83-468
+1068961,NA,G0KR30,50939,Sialidases,83-467
+646491,NA,C5E529,50939,Sialidases,81-459
+266827,NA,Q6Q793,50939,Sialidases,68-446
+428669,NA,A5A5V8,50939,Sialidases,68-446
+427773,NA,A5A5W0,50939,Sialidases,68-446
+402526,NA,Q6XV63,50939,Sialidases,53-438
+392809,NA,P03482,50939,Sialidases,83-467
+284218,NA,Q6DPL2,50939,Sialidases,68-446
+428668,NA,M1VM94,50939,Sialidases,68-446
+381518,NA,P03470,50939,Sialidases,70-450
+393902,NA,B4URC8,50939,Sialidases,83-467
+132504,NA,Q0PDM4,50939,Sialidases,83-379
+387139,M1,Q67157,48145,Influenza virus matrix protein M1,1-158
+387139,M1,Q67157,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,165-235
+1413188,M1,V5LUW6,48145,Influenza virus matrix protein M1,1-157
+542615,M1,B5TA22,48145,Influenza virus matrix protein M1,1-158
+542615,M1,B5TA22,47220,alpha-catenin/vinculin-like,161-228
+476294,M1,B2VNK4,48145,Influenza virus matrix protein M1,1-158
+476294,M1,B2VNK4,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,165-238
+504904,M1,D5F1R2,48145,Influenza virus matrix protein M1,1-158
+1460490,M1,W8NY93,48145,Influenza virus matrix protein M1,1-158
+1460490,M1,W8NY93,47220,alpha-catenin/vinculin-like,161-228
+641501,M1,C3W5Z1,48145,Influenza virus matrix protein M1,1-158
+641501,M1,C3W5Z1,47220,alpha-catenin/vinculin-like,161-228
+641809,M1,C3W5X4,48145,Influenza virus matrix protein M1,1-158
+641809,M1,C3W5X4,47220,alpha-catenin/vinculin-like,161-228
+1565433,M1,Q6B6H7,48145,Influenza virus matrix protein M1,1-158
+1565433,M1,Q6B6H7,47220,alpha-catenin/vinculin-like,161-228
+244949,M1,Q6W8Z1,48145,Influenza virus matrix protein M1,1-158
+244949,M1,Q6W8Z1,47220,alpha-catenin/vinculin-like,161-228
+542846,M1,B4ZGL0,48145,Influenza virus matrix protein M1,1-158
+2026012,M1,A0A2D0ZAA7,48145,Influenza virus matrix protein M1,1-157
+430432,M1,A4GXN2,48145,Influenza virus matrix protein M1,1-158
+430432,M1,A4GXN2,47220,alpha-catenin/vinculin-like,161-228
+432073,M1,Q5DL97,48145,Influenza virus matrix protein M1,1-158
+432073,M1,Q5DL97,47220,alpha-catenin/vinculin-like,161-228
+251307,M1,Q6VGH5,48145,Influenza virus matrix protein M1,1-158
+251307,M1,Q6VGH5,47220,alpha-catenin/vinculin-like,161-228
+560581,M1,L7NBR6,48145,Influenza virus matrix protein M1,1-157
+560581,M1,L7NBR6,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,169-237
+1954199,M1,A0A1X9JIG0,48145,Influenza virus matrix protein M1,1-158
+320306,M1,Q2XT29,48145,Influenza virus matrix protein M1,1-158
+320306,M1,Q2XT29,47220,alpha-catenin/vinculin-like,161-228
+1608684,M1,A0A0X7YY11,48145,Influenza virus matrix protein M1,1-158
+1608684,M1,A0A0X7YY11,47220,alpha-catenin/vinculin-like,161-228
+1608679,M1,A0A0X7YRD1,48145,Influenza virus matrix protein M1,1-158
+1608679,M1,A0A0X7YRD1,47220,alpha-catenin/vinculin-like,161-228
+1608681,M1,A0A0X7YRU1,48145,Influenza virus matrix protein M1,1-158
+1608681,M1,A0A0X7YRU1,47220,alpha-catenin/vinculin-like,161-228
+274827,M1,Q6E410,48145,Influenza virus matrix protein M1,1-158
+274827,M1,Q6E410,47220,alpha-catenin/vinculin-like,161-227
+482239,M1,B0Z5K5,48145,Influenza virus matrix protein M1,1-158
+482239,M1,B0Z5K5,47220,alpha-catenin/vinculin-like,161-227
+274837,M1,Q6E400,48145,Influenza virus matrix protein M1,1-158
+274837,M1,Q6E400,47220,alpha-catenin/vinculin-like,161-228
+482240,M1,B0Z5L6,48145,Influenza virus matrix protein M1,1-158
+482240,M1,B0Z5L6,47220,alpha-catenin/vinculin-like,161-227
+274838,M1,Q6E3Z9,48145,Influenza virus matrix protein M1,1-158
+274838,M1,Q6E3Z9,47220,alpha-catenin/vinculin-like,161-228
+274840,M1,Q6E3Z8,48145,Influenza virus matrix protein M1,1-158
+274840,M1,Q6E3Z8,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,169-237
+1503700,M1,A0A2H4C076,48145,Influenza virus matrix protein M1,1-158
+329182,M1,Q0A3X2,48145,Influenza virus matrix protein M1,1-158
+329182,M1,Q0A3X2,47220,alpha-catenin/vinculin-like,161-228
+307622,M1,Q5EML5,48145,Influenza virus matrix protein M1,1-158
+307622,M1,Q5EML5,47220,alpha-catenin/vinculin-like,161-227
+385580,M1,Q20P23,48145,Influenza virus matrix protein M1,1-158
+385580,M1,Q20P23,47220,alpha-catenin/vinculin-like,161-228
+326490,M1,Q4H2C9,48145,Influenza virus matrix protein M1,1-158
+326490,M1,Q4H2C9,47220,alpha-catenin/vinculin-like,161-228
+1855218,M1,A0A1B0YA44,48145,Influenza virus matrix protein M1,1-158
+1855218,M1,A0A1B0YA44,47220,alpha-catenin/vinculin-like,161-228
+1923885,M1,A0A1P8D5G3,48145,Influenza virus matrix protein M1,1-158
+367120,M1,Q20MG6,48145,Influenza virus matrix protein M1,1-158
+1608688,M1,A0A109NSV7,48145,Influenza virus matrix protein M1,1-158
+1608688,M1,A0A109NSV7,47220,alpha-catenin/vinculin-like,161-228
+226647,M1,Q80FV5,48145,Influenza virus matrix protein M1,1-158
+872290,M1,G9B9E1,48145,Influenza virus matrix protein M1,1-158
+872290,M1,G9B9E1,47220,alpha-catenin/vinculin-like,161-228
+506350,M1,Q910N6,48145,Influenza virus matrix protein M1,1-158
+130763,M1,Q77Y95,48145,Influenza virus matrix protein M1,1-157
+130763,M1,Q77Y95,47220,alpha-catenin/vinculin-like,159-228
+107423,M1,Q77RI3,48145,Influenza virus matrix protein M1,1-157
+107423,M1,Q77RI3,47220,alpha-catenin/vinculin-like,159-228
+88104,M1,Q9IP48,48145,Influenza virus matrix protein M1,1-157
+88104,M1,Q9IP48,47220,alpha-catenin/vinculin-like,159-228
+680692,M1,Q9IP47,48145,Influenza virus matrix protein M1,1-157
+680692,M1,Q9IP47,47220,alpha-catenin/vinculin-like,159-228
+107424,M1,Q9IBY4,48145,Influenza virus matrix protein M1,1-157
+107424,M1,Q9IBY4,47220,alpha-catenin/vinculin-like,159-228
+155222,M1,Q91U62,48145,Influenza virus matrix protein M1,1-105
+155223,M1,Q91U60,48145,Influenza virus matrix protein M1,1-125
+88103,M1,Q91U67,48145,Influenza virus matrix protein M1,1-157
+88103,M1,Q91U67,47220,alpha-catenin/vinculin-like,159-228
+155219,M1,Q77MD6,48145,Influenza virus matrix protein M1,1-157
+155219,M1,Q77MD6,47220,alpha-catenin/vinculin-like,159-228
+155220,M1,Q91U65,48145,Influenza virus matrix protein M1,1-157
+88097,M1,Q910H2,48145,Influenza virus matrix protein M1,1-157
+88097,M1,Q910H2,47220,alpha-catenin/vinculin-like,159-228
+644289,M1,C5MQE9,48145,Influenza virus matrix protein M1,1-158
+644289,M1,C5MQE9,47220,alpha-catenin/vinculin-like,161-228
+1429809,M1,V9TFI2,48145,Influenza virus matrix protein M1,1-158
+1429809,M1,V9TFI2,47220,alpha-catenin/vinculin-like,161-228
+1429810,M1,V9THI9,48145,Influenza virus matrix protein M1,1-158
+1429810,M1,V9THI9,47220,alpha-catenin/vinculin-like,161-228
+1429811,M1,V9TJ20,48145,Influenza virus matrix protein M1,1-158
+1429811,M1,V9TJ20,47220,alpha-catenin/vinculin-like,161-228
+1429812,M1,V9TJX8,48145,Influenza virus matrix protein M1,1-158
+1429812,M1,V9TJX8,47220,alpha-catenin/vinculin-like,161-228
+990089,M1,M9QW77,48145,Influenza virus matrix protein M1,1-158
+990089,M1,M9QW77,47220,alpha-catenin/vinculin-like,161-228
+1494073,M1,A0A088CEA9,48145,Influenza virus matrix protein M1,1-158
+1494073,M1,A0A088CEA9,47220,alpha-catenin/vinculin-like,161-228
+1465588,M1,A0A0A0Q048,48145,Influenza virus matrix protein M1,1-158
+383588,M1,Q67181,48145,Influenza virus matrix protein M1,1-158
+383588,M1,Q67181,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,165-237
+644882,M1,C4RST6,48145,Influenza virus matrix protein M1,1-158
+644882,M1,C4RST6,47220,alpha-catenin/vinculin-like,161-228
+644884,M1,C4RTW6,48145,Influenza virus matrix protein M1,1-158
+644884,M1,C4RTW6,47220,alpha-catenin/vinculin-like,161-228
+643780,M1,C3W6N0,48145,Influenza virus matrix protein M1,1-158
+643780,M1,C3W6N0,47220,alpha-catenin/vinculin-like,161-228
+645520,M1,C4RUB3,48145,Influenza virus matrix protein M1,1-158
+645520,M1,C4RUB3,47220,alpha-catenin/vinculin-like,161-228
+680693,M1,Q6VGH7,48145,Influenza virus matrix protein M1,1-158
+680693,M1,Q6VGH7,47220,alpha-catenin/vinculin-like,161-228
+643212,M1,C8XNX1,48145,Influenza virus matrix protein M1,1-158
+643212,M1,C8XNX1,47220,alpha-catenin/vinculin-like,161-228
+381512,M1,I7C1K3,48145,Influenza virus matrix protein M1,1-158
+381512,M1,I7C1K3,47220,alpha-catenin/vinculin-like,161-231
+379756,M1,C4LNC3,48145,Influenza virus matrix protein M1,1-158
+379756,M1,C4LNC3,47220,alpha-catenin/vinculin-like,161-228
+519082,M1,B2LVE3,48145,Influenza virus matrix protein M1,1-158
+643960,M1,C5E520,48145,Influenza virus matrix protein M1,1-158
+643960,M1,C5E520,47220,alpha-catenin/vinculin-like,161-228
+327172,M1,Q3M0T7,48145,Influenza virus matrix protein M1,1-158
+381513,M1,Q8B0A9,48145,Influenza virus matrix protein M1,2-118
+381513,M1,Q8B0A9,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,140-195
+382825,M1,Q8QV58,48145,Influenza virus matrix protein M1,1-158
+211044,M1,P03485,48145,Influenza virus matrix protein M1,1-158
+211044,M1,P03485,47220,alpha-catenin/vinculin-like,161-231
+384493,M1,Q2VC89,48145,Influenza virus matrix protein M1,1-158
+647100,M1,C5MRW7,48145,Influenza virus matrix protein M1,1-158
+647100,M1,C5MRW7,47220,alpha-catenin/vinculin-like,161-228
+464623,M1,B2VLV1,48145,Influenza virus matrix protein M1,1-158
+1429813,M1,V9TGA7,48145,Influenza virus matrix protein M1,1-158
+1429813,M1,V9TGA7,47220,alpha-catenin/vinculin-like,161-228
+990090,M1,V9TFH1,48145,Influenza virus matrix protein M1,1-158
+990090,M1,V9TFH1,47220,alpha-catenin/vinculin-like,161-228
+437342,M1,A6M5L6,48145,Influenza virus matrix protein M1,1-158
+437342,M1,A6M5L6,47220,alpha-catenin/vinculin-like,161-228
+666651,M1,C8CT34,48145,Influenza virus matrix protein M1,1-158
+1176104,M1,J9V4A4,48145,Influenza virus matrix protein M1,1-158
+1176104,M1,J9V4A4,47220,alpha-catenin/vinculin-like,161-228
+374443,M1,Q1G7M7,48145,Influenza virus matrix protein M1,1-158
+374443,M1,Q1G7M7,47220,alpha-catenin/vinculin-like,161-228
+374439,M1,Q1G7N8,48145,Influenza virus matrix protein M1,1-158
+374439,M1,Q1G7N8,47220,alpha-catenin/vinculin-like,161-228
+1068961,M1,Q77Q09,48145,Influenza virus matrix protein M1,1-158
+1068961,M1,Q77Q09,47220,alpha-catenin/vinculin-like,161-228
+644199,M1,C4ALH4,48145,Influenza virus matrix protein M1,1-158
+644199,M1,C4ALH4,47220,alpha-catenin/vinculin-like,161-228
+266827,M1,Q5QF23,48145,Influenza virus matrix protein M1,1-158
+266827,M1,Q5QF23,47220,alpha-catenin/vinculin-like,161-228
+428669,M1,A5A5S6,48145,Influenza virus matrix protein M1,1-158
+428669,M1,A5A5S6,47220,alpha-catenin/vinculin-like,161-228
+427773,M1,A5A5S0,48145,Influenza virus matrix protein M1,1-158
+427773,M1,A5A5S0,47220,alpha-catenin/vinculin-like,161-228
+402526,M1,Q0A2J6,48145,Influenza virus matrix protein M1,1-158
+402526,M1,Q0A2J6,47220,alpha-catenin/vinculin-like,161-228
+392809,M1,H9XII6,48145,Influenza virus matrix protein M1,1-158
+284218,M1,Q6DPW4,48145,Influenza virus matrix protein M1,1-158
+284218,M1,Q6DPW4,47220,alpha-catenin/vinculin-like,161-228
+381518,M1,P05777,48145,Influenza virus matrix protein M1,1-158
+393902,M1,Q0PEM7,48145,Influenza virus matrix protein M1,1-158
+393902,M1,Q0PEM7,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,165-238
+132504,M1,Q9IQ48,48145,Influenza virus matrix protein M1,1-158
+132504,M1,Q9IQ48,58104,Methyl-accepting chemotaxis protein (MCP) signaling domain,165-235
+387139,NS1,P69277,143021,Ns1 effector domain-like,79-204
+387139,NS1,P69277,47060,S15/NS1 RNA-binding domain,1-70
+542615,NS1,D6NET9,143021,Ns1 effector domain-like,79-205
+542615,NS1,D6NET9,47060,S15/NS1 RNA-binding domain,1-70
+476294,NS1,B6A6U7,143021,Ns1 effector domain-like,79-205
+476294,NS1,B6A6U7,47060,S15/NS1 RNA-binding domain,1-70
+504904,NS1,D5F1R4,143021,Ns1 effector domain-like,79-205
+504904,NS1,D5F1R4,47060,S15/NS1 RNA-binding domain,1-70
+1460490,NS1,W8NQA4,143021,Ns1 effector domain-like,79-205
+1460490,NS1,W8NQA4,47060,S15/NS1 RNA-binding domain,1-69
+641501,NS1,C3W5S7,143021,Ns1 effector domain-like,79-204
+641501,NS1,C3W5S7,47060,S15/NS1 RNA-binding domain,1-70
+641809,NS1,C3W611,143021,Ns1 effector domain-like,79-204
+641809,NS1,C3W611,47060,S15/NS1 RNA-binding domain,1-70
+542846,NS1,B4ZGL4,143021,Ns1 effector domain-like,79-204
+542846,NS1,B4ZGL4,47060,S15/NS1 RNA-binding domain,1-70
+2026012,NS1,A0A2D0YP89,143021,Ns1 effector domain-like,79-205
+2026012,NS1,A0A2D0YP89,47060,S15/NS1 RNA-binding domain,1-70
+430432,NS1,D1MKX3,143021,Ns1 effector domain-like,78-199
+430432,NS1,D1MKX3,47060,S15/NS1 RNA-binding domain,1-70
+432073,NS1,Q5DL90,143021,Ns1 effector domain-like,78-200
+432073,NS1,Q5DL90,47060,S15/NS1 RNA-binding domain,1-70
+251307,NS1,Q6VE52,143021,Ns1 effector domain-like,79-205
+251307,NS1,Q6VE52,47060,S15/NS1 RNA-binding domain,1-70
+560581,NS1,L7NBQ4,143021,Ns1 effector domain-like,79-204
+560581,NS1,L7NBQ4,47060,S15/NS1 RNA-binding domain,1-70
+1954199,NS1,A0A1X9JPF3,143021,Ns1 effector domain-like,79-205
+1954199,NS1,A0A1X9JPF3,47060,S15/NS1 RNA-binding domain,1-70
+320306,NS1,Q1W0Y7,143021,Ns1 effector domain-like,79-200
+320306,NS1,Q1W0Y7,47060,S15/NS1 RNA-binding domain,1-70
+1608684,NS1,A0A0X7YQ55,143021,Ns1 effector domain-like,78-200
+1608684,NS1,A0A0X7YQ55,47060,S15/NS1 RNA-binding domain,1-70
+1608679,NS1,A0A0X7YZI1,143021,Ns1 effector domain-like,78-200
+1608679,NS1,A0A0X7YZI1,47060,S15/NS1 RNA-binding domain,1-69
+1608681,NS1,A0A109NT14,143021,Ns1 effector domain-like,78-200
+1608681,NS1,A0A109NT14,47060,S15/NS1 RNA-binding domain,1-70
+274827,NS1,Q6E3U7,143021,Ns1 effector domain-like,79-205
+274827,NS1,Q6E3U7,47060,S15/NS1 RNA-binding domain,1-70
+482239,NS1,B0Z5K7,143021,Ns1 effector domain-like,79-205
+482239,NS1,B0Z5K7,47060,S15/NS1 RNA-binding domain,1-70
+274837,NS1,Q6E3T7,143021,Ns1 effector domain-like,78-200
+274837,NS1,Q6E3T7,47060,S15/NS1 RNA-binding domain,1-70
+482240,NS1,B0Z5L8,143021,Ns1 effector domain-like,79-205
+482240,NS1,B0Z5L8,47060,S15/NS1 RNA-binding domain,1-70
+274838,NS1,Q6E3T6,143021,Ns1 effector domain-like,78-200
+274838,NS1,Q6E3T6,47060,S15/NS1 RNA-binding domain,1-70
+274840,NS1,Q6E3T4,143021,Ns1 effector domain-like,79-205
+274840,NS1,Q6E3T4,47060,S15/NS1 RNA-binding domain,1-70
+1503700,NS1,A0A2H4C085,143021,Ns1 effector domain-like,79-200
+1503700,NS1,A0A2H4C085,47060,S15/NS1 RNA-binding domain,1-70
+329182,NS1,Q0A3W9,143021,Ns1 effector domain-like,79-205
+329182,NS1,Q0A3W9,47060,S15/NS1 RNA-binding domain,1-70
+307622,NS1,Q5EML4,143021,Ns1 effector domain-like,79-205
+307622,NS1,Q5EML4,47060,S15/NS1 RNA-binding domain,1-70
+385580,NS1,P08270,143021,Ns1 effector domain-like,76-202
+385580,NS1,P08270,47060,S15/NS1 RNA-binding domain,1-67
+326490,NS1,Q4H2C7,143021,Ns1 effector domain-like,78-200
+326490,NS1,Q4H2C7,47060,S15/NS1 RNA-binding domain,1-70
+1855218,NS1,A0A1B0YAA7,143021,Ns1 effector domain-like,79-205
+1855218,NS1,A0A1B0YAA7,47060,S15/NS1 RNA-binding domain,1-69
+1923885,NS1,A0A1P8D5I2,143021,Ns1 effector domain-like,78-200
+1923885,NS1,A0A1P8D5I2,47060,S15/NS1 RNA-binding domain,1-70
+367120,NS1,P03499,143021,Ns1 effector domain-like,79-202
+367120,NS1,P03499,47060,S15/NS1 RNA-binding domain,1-70
+1608688,NS1,A0A0X7YRV3,143021,Ns1 effector domain-like,78-200
+1608688,NS1,A0A0X7YRV3,47060,S15/NS1 RNA-binding domain,1-70
+1612661,NS1,A0A0D3S0M1,143021,Ns1 effector domain-like,78-200
+1612661,NS1,A0A0D3S0M1,47060,S15/NS1 RNA-binding domain,1-70
+226647,NS1,Q80FN4,143021,Ns1 effector domain-like,79-204
+226647,NS1,Q80FN4,47060,S15/NS1 RNA-binding domain,1-70
+872290,NS1,G9B9E3,143021,Ns1 effector domain-like,79-204
+872290,NS1,G9B9E3,47060,S15/NS1 RNA-binding domain,1-70
+710473,NS1,E7D4R4,143021,Ns1 effector domain-like,79-204
+710473,NS1,E7D4R4,47060,S15/NS1 RNA-binding domain,1-70
+506350,NS1,Q91MA0,143021,Ns1 effector domain-like,79-204
+506350,NS1,Q91MA0,47060,S15/NS1 RNA-binding domain,1-70
+130763,NS1,O56264,143021,Ns1 effector domain-like,79-205
+130763,NS1,O56264,47060,S15/NS1 RNA-binding domain,1-70
+107423,NS1,Q9INP1,143021,Ns1 effector domain-like,79-205
+107423,NS1,Q9INP1,47060,S15/NS1 RNA-binding domain,1-70
+88104,NS1,Q9IP45,143021,Ns1 effector domain-like,79-205
+88104,NS1,Q9IP45,47060,S15/NS1 RNA-binding domain,1-70
+680692,NS1,Q9IP43,143021,Ns1 effector domain-like,79-205
+680692,NS1,Q9IP43,47060,S15/NS1 RNA-binding domain,1-70
+107424,NS1,Q9INP0,143021,Ns1 effector domain-like,79-205
+107424,NS1,Q9INP0,47060,S15/NS1 RNA-binding domain,1-70
+155222,NS1,Q91UK6,47060,S15/NS1 RNA-binding domain,1-65
+155222,NS1,Q91UK6,143021,Ns1 effector domain-like,74-119
+155223,NS1,Q91U20,47060,S15/NS1 RNA-binding domain,1-68
+155223,NS1,Q91U20,143021,Ns1 effector domain-like,77-106
+155224,NS1,Q91U18,47060,S15/NS1 RNA-binding domain,1-68
+155224,NS1,Q91U18,143021,Ns1 effector domain-like,77-96
+155225,NS1,Q91UK5,47060,S15/NS1 RNA-binding domain,1-62
+155225,NS1,Q91UK5,143021,Ns1 effector domain-like,71-88
+155226,NS1,Q91U28,143021,Ns1 effector domain-like,79-205
+155226,NS1,Q91U28,47060,S15/NS1 RNA-binding domain,1-70
+155227,NS1,Q91U17,143021,Ns1 effector domain-like,1-88
+88103,NS1,Q91U26,143021,Ns1 effector domain-like,79-205
+88103,NS1,Q91U26,47060,S15/NS1 RNA-binding domain,1-70
+155219,NS1,Q91U25,143021,Ns1 effector domain-like,79-205
+155219,NS1,Q91U25,47060,S15/NS1 RNA-binding domain,1-70
+155220,NS1,Q91U23,143021,Ns1 effector domain-like,79-205
+155220,NS1,Q91U23,47060,S15/NS1 RNA-binding domain,1-70
+88097,NS1,Q91U22,143021,Ns1 effector domain-like,79-205
+88097,NS1,Q91U22,47060,S15/NS1 RNA-binding domain,1-70
+644289,NS1,C5MQF1,143021,Ns1 effector domain-like,79-204
+644289,NS1,C5MQF1,47060,S15/NS1 RNA-binding domain,1-70
+1429809,NS1,V9TG82,143021,Ns1 effector domain-like,79-204
+1429809,NS1,V9TG82,47060,S15/NS1 RNA-binding domain,1-70
+1429810,NS1,V9TFP2,143021,Ns1 effector domain-like,79-204
+1429810,NS1,V9TFP2,47060,S15/NS1 RNA-binding domain,1-70
+1429811,NS1,V9TK60,143021,Ns1 effector domain-like,79-204
+1429811,NS1,V9TK60,47060,S15/NS1 RNA-binding domain,1-70
+1429812,NS1,V9THG1,143021,Ns1 effector domain-like,79-204
+1429812,NS1,V9THG1,47060,S15/NS1 RNA-binding domain,1-70
+990089,NS1,M9QV15,143021,Ns1 effector domain-like,79-204
+990089,NS1,M9QV15,47060,S15/NS1 RNA-binding domain,1-70
+352520,NS1,Q20P33,143021,Ns1 effector domain-like,79-205
+352520,NS1,Q20P33,47060,S15/NS1 RNA-binding domain,1-70
+1494073,NS1,A0A088CC48,143021,Ns1 effector domain-like,79-205
+1494073,NS1,A0A088CC48,47060,S15/NS1 RNA-binding domain,1-69
+1465588,NS1,A0A0A0PU41,143021,Ns1 effector domain-like,79-205
+1465588,NS1,A0A0A0PU41,47060,S15/NS1 RNA-binding domain,1-70
+383588,NS1,Q1I2F7,143021,Ns1 effector domain-like,79-204
+383588,NS1,Q1I2F7,47060,S15/NS1 RNA-binding domain,1-70
+644882,NS1,C4RST7,143021,Ns1 effector domain-like,79-204
+644882,NS1,C4RST7,47060,S15/NS1 RNA-binding domain,1-70
+644884,NS1,C7FHA7,143021,Ns1 effector domain-like,79-204
+644884,NS1,C7FHA7,47060,S15/NS1 RNA-binding domain,1-70
+643780,NS1,C3W6P2,143021,Ns1 effector domain-like,79-204
+643780,NS1,C3W6P2,47060,S15/NS1 RNA-binding domain,1-70
+645520,NS1,C4RUB6,143021,Ns1 effector domain-like,79-204
+645520,NS1,C4RUB6,47060,S15/NS1 RNA-binding domain,1-70
+680693,NS1,Q6VE54,143021,Ns1 effector domain-like,79-205
+680693,NS1,Q6VE54,47060,S15/NS1 RNA-binding domain,1-70
+643212,NS1,C8XNX3,143021,Ns1 effector domain-like,79-204
+643212,NS1,C8XNX3,47060,S15/NS1 RNA-binding domain,1-70
+381512,NS1,I7DBQ0,143021,Ns1 effector domain-like,79-205
+381512,NS1,I7DBQ0,47060,S15/NS1 RNA-binding domain,1-70
+379756,NS1,C4LNC7,143021,Ns1 effector domain-like,79-205
+379756,NS1,C4LNC7,47060,S15/NS1 RNA-binding domain,1-70
+519082,NS1,B2LVE5,143021,Ns1 effector domain-like,79-204
+519082,NS1,B2LVE5,47060,S15/NS1 RNA-binding domain,1-70
+643960,NS1,C5E524,143021,Ns1 effector domain-like,79-204
+643960,NS1,C5E524,47060,S15/NS1 RNA-binding domain,1-70
+327172,NS1,Q3M0T3,143021,Ns1 effector domain-like,79-205
+327172,NS1,Q3M0T3,47060,S15/NS1 RNA-binding domain,1-70
+382819,NS1,Q67249,143021,Ns1 effector domain-like,79-204
+382819,NS1,Q67249,47060,S15/NS1 RNA-binding domain,1-70
+381513,NS1,Q1NZ43,143021,Ns1 effector domain-like,79-205
+381513,NS1,Q1NZ43,47060,S15/NS1 RNA-binding domain,1-70
+382825,NS1,D8KS94,143021,Ns1 effector domain-like,79-204
+382825,NS1,D8KS94,47060,S15/NS1 RNA-binding domain,1-70
+211044,NS1,P03496,143021,Ns1 effector domain-like,79-205
+211044,NS1,P03496,47060,S15/NS1 RNA-binding domain,1-70
+384493,NS1,Q2VC87,143021,Ns1 effector domain-like,79-205
+384493,NS1,Q2VC87,47060,S15/NS1 RNA-binding domain,1-70
+647100,NS1,C5MRW9,143021,Ns1 effector domain-like,79-204
+647100,NS1,C5MRW9,47060,S15/NS1 RNA-binding domain,1-70
+1429813,NS1,V9TIX6,143021,Ns1 effector domain-like,79-204
+1429813,NS1,V9TIX6,47060,S15/NS1 RNA-binding domain,1-70
+990090,NS1,V9TG68,143021,Ns1 effector domain-like,79-204
+990090,NS1,V9TG68,47060,S15/NS1 RNA-binding domain,1-70
+437342,NS1,A6M5M0,143021,Ns1 effector domain-like,79-205
+437342,NS1,A6M5M0,47060,S15/NS1 RNA-binding domain,1-70
+666651,NS1,C8CT36,143021,Ns1 effector domain-like,79-204
+666651,NS1,C8CT36,47060,S15/NS1 RNA-binding domain,1-69
+1176104,NS1,J9V889,143021,Ns1 effector domain-like,79-205
+1176104,NS1,J9V889,47060,S15/NS1 RNA-binding domain,1-70
+374443,NS1,Q1G7M3,143021,Ns1 effector domain-like,79-205
+374443,NS1,Q1G7M3,47060,S15/NS1 RNA-binding domain,1-70
+374439,NS1,Q1G7N4,143021,Ns1 effector domain-like,79-205
+374439,NS1,Q1G7N4,47060,S15/NS1 RNA-binding domain,1-70
+1068961,NS1,Q77Q07,143021,Ns1 effector domain-like,79-204
+1068961,NS1,Q77Q07,47060,S15/NS1 RNA-binding domain,1-70
+644199,NS1,C4ALH1,143021,Ns1 effector domain-like,79-204
+644199,NS1,C4ALH1,47060,S15/NS1 RNA-binding domain,1-70
+266827,NS1,Q5L4F5,143021,Ns1 effector domain-like,78-200
+266827,NS1,Q5L4F5,47060,S15/NS1 RNA-binding domain,1-70
+428669,NS1,A5A5U5,143021,Ns1 effector domain-like,78-200
+428669,NS1,A5A5U5,47060,S15/NS1 RNA-binding domain,1-70
+427773,NS1,A4GXG7,143021,Ns1 effector domain-like,78-200
+427773,NS1,A4GXG7,47060,S15/NS1 RNA-binding domain,1-70
+402526,NS1,Q0A2J2,143021,Ns1 effector domain-like,79-205
+402526,NS1,Q0A2J2,47060,S15/NS1 RNA-binding domain,1-70
+392809,NS1,H9XIJ0,143021,Ns1 effector domain-like,79-204
+392809,NS1,H9XIJ0,47060,S15/NS1 RNA-binding domain,1-70
+284218,NS1,A5A5U1,143021,Ns1 effector domain-like,78-199
+284218,NS1,A5A5U1,47060,S15/NS1 RNA-binding domain,1-70
+428668,NS1,A5A5U3,143021,Ns1 effector domain-like,78-199
+428668,NS1,A5A5U3,47060,S15/NS1 RNA-binding domain,1-70
+381518,NS1,Q82506,143021,Ns1 effector domain-like,79-205
+381518,NS1,Q82506,47060,S15/NS1 RNA-binding domain,1-70
+393902,NS1,B4URD1,143021,Ns1 effector domain-like,79-205
+393902,NS1,B4URD1,47060,S15/NS1 RNA-binding domain,1-70
+132504,NS1,Q0PDM0,143021,Ns1 effector domain-like,79-205
+132504,NS1,Q0PDM0,47060,S15/NS1 RNA-binding domain,1-70
+387139,NS2,Q02600,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+542615,NS2,D6NET8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-113
+542615,NS2,D6NET8,46966,Spectrin repeat,10-88
+476294,NS2,B6A6U6,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+504904,NS2,D5F1R3,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1460490,NS2,W8PGX9,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+641501,NS2,C3W5S6,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+641809,NS2,C3W610,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+542846,NS2,B4ZGL3,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+2026012,NS2,A0A2D0Z5Q5,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+430432,NS2,D1MKX2,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+432073,NS2,Q5DL91,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+560581,NS2,L7NBK9,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1954199,NS2,A0A1X9JNN2,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+320306,NS2,Q1W0Y8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1608684,NS2,A0A0X7YU99,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+1608679,NS2,A0A120GWZ4,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+1608681,NS2,A0A0X7YRF0,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+482239,NS2,B0Z5K6,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+482239,NS2,B0Z5K6,46966,Spectrin repeat,10-88
+482240,NS2,B0Z5L7,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+482240,NS2,B0Z5L7,46966,Spectrin repeat,10-88
+1503700,NS2,A0A2H4C081,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+329182,NS2,Q0A3X0,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+329182,NS2,Q0A3X0,46966,Spectrin repeat,10-88
+385580,NS2,P08271,101156,"Nonstructural protein ns2, Nep, M1-binding domain",60-113
+385580,NS2,P08271,46966,Spectrin repeat,7-85
+326490,NS2,Q4H2C8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+326490,NS2,Q4H2C8,46966,Spectrin repeat,10-88
+1855218,NS2,A0A1B0YC50,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1923885,NS2,A0A1P8D5I3,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+367120,NS2,P03506,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1608688,NS2,A0A0X7YSU1,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+1612661,NS2,A0A0D3S072,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+226647,NS2,Q80FN5,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+506350,NS2,Q910E4,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+130763,NS2,O56263,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+130763,NS2,O56263,46966,Spectrin repeat,10-87
+107423,NS2,Q9INP2,101156,"Nonstructural protein ns2, Nep, M1-binding domain",61-114
+88104,NS2,Q9IP46,101156,"Nonstructural protein ns2, Nep, M1-binding domain",61-114
+680692,NS2,D1LN62,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+107424,NS2,Q9IBY7,101156,"Nonstructural protein ns2, Nep, M1-binding domain",61-114
+155226,NS2,Q77MC0,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+88103,NS2,Q91U27,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+155219,NS2,Q77MB9,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+155219,NS2,Q77MB9,46966,Spectrin repeat,10-87
+155220,NS2,Q91U24,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+88097,NS2,Q77MB8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+88097,NS2,Q77MB8,46966,Spectrin repeat,10-87
+644289,NS2,C5MQF0,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+644289,NS2,C5MQF0,46966,Spectrin repeat,10-88
+1429809,NS2,V9THF0,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1429810,NS2,V9TK50,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1429811,NS2,V9TGF9,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1429811,NS2,V9TGF9,46966,Spectrin repeat,9-88
+1429812,NS2,V9TIW5,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+990089,NS2,M9R325,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+352520,NS2,Q20P34,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+352520,NS2,Q20P34,46966,Spectrin repeat,10-88
+1494073,NS2,A0A088CD96,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1465588,NS2,A0A0A0PYL7,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+383588,NS2,Q1I2F8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+644882,NS2,C4RST8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+644884,NS2,C7FHA6,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+643780,NS2,C3W6P1,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+645520,NS2,C4RUB5,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+680693,NS2,D1LRN5,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+680693,NS2,D1LRN5,46966,Spectrin repeat,10-88
+643212,NS2,C8XNX2,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+381512,NS2,I7C1K8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+379756,NS2,C4LNC6,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+519082,NS2,B2LVE4,101156,"Nonstructural protein ns2, Nep, M1-binding domain",64-116
+643960,NS2,C5E523,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+327172,NS2,Q3M0T4,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+382819,NS2,Q67248,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+381513,NS2,Q1NZ44,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+382825,NS2,D8KS93,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+211044,NS2,P03508,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+384493,NS2,Q2VC88,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+384493,NS2,Q2VC88,46966,Spectrin repeat,10-88
+647100,NS2,C5MRW8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1429813,NS2,V9TFK9,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+990090,NS2,V9THD8,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+437342,NS2,A6M5L9,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+666651,NS2,C8CT35,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+666651,NS2,C8CT35,46966,Spectrin repeat,10-88
+1176104,NS2,J9VAC5,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+374443,NS2,Q1G7M4,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+374443,NS2,Q1G7M4,46966,Spectrin repeat,11-88
+374439,NS2,Q1G7N5,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1068961,NS2,Q77Q08,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+1068961,NS2,Q77Q08,46966,Spectrin repeat,10-88
+644199,NS2,C4ALH0,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+266827,NS2,Q5L4F6,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+428669,NS2,A5A5U4,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+427773,NS2,A4GXG6,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+402526,NS2,Q0A2J3,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+402526,NS2,Q0A2J3,46966,Spectrin repeat,10-88
+392809,NS2,H9XIJ1,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+284218,NS2,Q6DP92,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+428668,NS2,A5A5U2,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+381518,NS2,Q89733,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+393902,NS2,B4URD0,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116
+132504,NS2,Q76MT9,101156,"Nonstructural protein ns2, Nep, M1-binding domain",63-116

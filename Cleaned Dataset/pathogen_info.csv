@@ -1,0 +1,140 @@
+Pubmed ID,Pathogen,Subtype,TaxonomyID,Mouse Genome,Lethal Dose 50 (LD50),Infection unit,Two-class Virulence Level,Three-class Virulence Level
+21917963,A/Brisbane/59/2007,H1N1,504904,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/Brisbane/59/2007,H1N1,504904,DBA/2,5 (P.E.),PFU,Virulent,Intermediate
+23027194,A/California/04/2009,H1N1,641501,BALB/c,3.5 (P.E.),CCID50,Virulent,Intermediate
+29263874,A/California/07/2009,H1N1,641809,BALB/c,4.5 (P.E.),TCID50,Virulent,Intermediate
+29960799,A/Fort Monmouth/1/1947,H1N1,367120,BALB/c,1.18 (P.E.),PFU,Virulent,High
+21703405,A/Hamburg/05/2009,H1N1,872290,BALB/c,6 (L.B.),PFU,Avirulent,Low
+21703405,A/Hamburg/05/2009,H1N1,872290,C57BL/6,5.2 (P.E.),PFU,Virulent,Intermediate
+25948752,A/Hamburg/05/2009,H1N1,872290,C57BL/6,5.2 (P.E.),PFU,Virulent,Intermediate
+21703405,A/Hamburg/NY1580/2009,H1N1,710473,BALB/c,6 (L.B.),PFU,Avirulent,Low
+21703405,A/Hamburg/NY1580/2009,H1N1,710473,C57BL/6,3.5 (P.E.),PFU,Virulent,Intermediate
+25948752,A/Hamburg/NY1580/2009,H1N1,710473,C57BL/6,3.5 (P.E.),PFU,Virulent,Intermediate
+15470432,A/Kawasaki/173/2001,H1N1,1088753,BALB/c,7.4 (L.B.),PFU,Avirulent,Low
+19672242,A/Kawasaki/UTK-4/2009,H1N1,1088752,BALB/c,6.6 (L.B.),PFU,Avirulent,Low
+24385366,A/Korea/01/2009,H1N1,644289,BALB/c,6 (L.B.),PFU,Avirulent,Low
+24385366,A/Korea/01/2009,H1N1,644289,DBA/2,2.83 (P.E.),PFU,Virulent,High
+25119465,A/La Reunion/803/2010,H1N1,1429809,BALB/c,2.95 (P.E.),TCID50,Virulent,High
+25119465,A/Limoges/1159/2010,H1N1,1429810,BALB/c,3.15 (P.E.),TCID50,Virulent,Intermediate
+25119465,A/Lyon/1.12/2011,H1N1,1429811,BALB/c,3 (P.E.),TCID50,Virulent,High
+25119465,A/Lyon/52.16/2010,H1N1,1429812,BALB/c,2.7 (P.E.),TCID50,Virulent,High
+25119465,A/Lyon/969/2009,H1N1,990089,BALB/c,3.2 (P.E.),TCID50,Virulent,Intermediate
+21917963,A/mallard/Alberta/35/1976,H1N1,352520,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/mallard/Alberta/35/1976,H1N1,352520,DBA/2,6 (L.B.),PFU,Avirulent,Low
+20181710,A/Mexico/4108/2009,H1N1,644882,BALB/c,6 (L.B.),EID50,Avirulent,Low
+20181710,A/Mexico/4482/2009,H1N1,644884,BALB/c,6 (L.B.),EID50,Avirulent,Low
+20181710,A/Mexico/InDRE4487/2009,H1N1,643780,BALB/c,6 (L.B.),EID50,Avirulent,Low
+26079133,A/Narita/1/2009,H1N1,645520,BALB/c,5 (L.B.),PFU,Avirulent,Low
+20976194,A/Netherlands/602/2009,H1N1,643212,BALB/c,6 (P.E.),TCID50,Virulent,Intermediate
+20126449,A/Netherlands/602/2009,H1N1,643212,C57BL/6,4.2 (P.E.),PFU,Virulent,Intermediate
+21917963,A/Netherlands/602/2009,H1N1,643212,DBA/2,0.5 (P.E.),PFU,Virulent,High
+29960799,A/New Caledonia/20/1999,H1N1,381512,BALB/c,5.68 (P.E.),PFU,Virulent,Intermediate
+21917963,A/New Caledonia/20/1999,H1N1,381512,C57BL/6,5.9 (P.E.),PFU,Virulent,Intermediate
+21917963,A/New Caledonia/20/1999,H1N1,381512,DBA/2,4.3 (P.E.),PFU,Virulent,Intermediate
+20181710,A/New Jersey/8/1976,H1N1,379756,BALB/c,6 (L.B.),EID50,Avirulent,Low
+23799150,A/New York/1682/2009,H1N1,643960,BALB/c,6.78 (L.B.),TCID50,Avirulent,Low
+19211766,A/New York/312/2001,H1N1,327172,BALB/c,5 (L.B.),PFU,Avirulent,Low
+23027194,A/NWS/1933,H1N1,382819,BALB/c,4 (P.E.),CCID50,Virulent,Intermediate
+20181710,A/Ohio/02/2007,H1N1,643704,BALB/c,5.8 (P.E.),EID50,Virulent,Intermediate
+29960799,A/Puerto Rico/8/1934,H1N1,211044,BALB/c,1.74 (P.E.),PFU,Virulent,High
+19293935,A/Puerto Rico/8/1934,H1N1,211044,C57BL/6,5.3 (P.E.),FFU,Virulent,Intermediate
+19293935,A/Puerto Rico/8/1934,H1N1,211044,DBA/2,1.56 (P.E.),FFU,Virulent,High
+23313655,A/Seoul/Y-01/2009,H1N1,866353,BALB/c,2.3 (P.E.),PFU,Virulent,High
+29960799,A/Sichuan/1/2009,H1N1,647100,BALB/c,3.73 (P.E.),PFU,Virulent,Intermediate
+21703405,A/Solomon Islands/3/2006,H1N1,464623,BALB/c,6 (L.B.),PFU,Avirulent,Low
+21703405,A/Solomon Islands/3/2006,H1N1,464623,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/Solomon Islands/3/2006,H1N1,464623,DBA/2,3.9 (P.E.),PFU,Virulent,Intermediate
+25119465,A/StEtienne/1139/2010,H1N1,1429813,BALB/c,4.2 (P.E.),TCID50,Virulent,Intermediate
+25119465,A/StEtienne/1691/2009,H1N1,990090,BALB/c,2.7 (P.E.),TCID50,Virulent,High
+20350372,A/swine/Iowa/4/1976,H1N1,437342,FVB/J,6 (L.B.),TCID50,Avirulent,Low
+21917963,A/swine/Kansas/77778/2007,H1N1,666651,C57BL/6,2.5 (P.E.),,Virulent,High
+21917963,A/swine/Kansas/77778/2007,H1N1,666651,DBA/2,1 (P.E.),,Virulent,High
+21917963,A/swine/Spain/53207/2004,H1N1,374443,C57BL/6,5.7 (P.E.),PFU,Virulent,Intermediate
+21917963,A/swine/Spain/53207/2004,H1N1,374443,DBA/2,2.2 (P.E.),PFU,Virulent,High
+20592084,A/Tennessee/1-560/2009,H1N1,646491,BALB/c,5 (P.E.),PFU,Virulent,Intermediate
+20181710,A/Texas/15/2009,H1N1,644199,BALB/c,6 (L.B.),EID50,Avirulent,Low
+18468740,A/Wilson-Smith/1933,H1N1,381518,BALB/c,2.3 (P.E.),PFU,Virulent,High
+21917963,A/swine/Spain/40564/2002,H1N2,1176104,C57BL/6,4.7 (P.E.),,Virulent,Intermediate
+21917963,A/swine/Spain/40564/2002,H1N2,1176104,DBA/2,1.3 (P.E.),,Virulent,High
+18468740,A/Aichi/2/68,H3N2,387139,BALB/c,5.85 (P.E.),PFU,Virulent,Intermediate
+21917963,A/Brisbane/10/2007,H3N2,476294,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/Brisbane/10/2007,H3N2,476294,DBA/2,6 (L.B.),PFU,Avirulent,Low
+21917963,A/Hong Kong/1/1968,H3N2,506350,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/Hong Kong/1/1968,H3N2,506350,DBA/2,5.5 (P.E.),PFU,Virulent,Intermediate
+15470432,A/Memphis/8/1988,H3N2,383588,BALB/c,6.2 (L.B.),PFU,Avirulent,Low
+21917963,A/Panama/2007/1999,H3N2,381513,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/Panama/2007/1999,H3N2,381513,DBA/2,6 (L.B.),PFU,Avirulent,Low
+18468740,A/Philippines/2/1982,H3N2,382825,BALB/c,2.3 (P.E.),PFU,Virulent,High
+21917963,A/swine/Spain/54008/2004,H3N2,374439,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/swine/Spain/54008/2004,H3N2,374439,DBA/2,5.5 (P.E.),PFU,Virulent,Intermediate
+21917963,A/swine/Texas/4199-2/1998,H3N2,1068961,C57BL/6,6.2 (P.E.),PFU,Avirulent,Low
+21917963,A/swine/Texas/4199-2/1998,H3N2,1068961,DBA/2,5.7 (P.E.),PFU,Virulent,Intermediate
+23027194,A/Victoria/3/1975,H3N2,392809,BALB/c,4.5 (P.E.),CCID50,Virulent,Intermediate
+21917963,A/Wisconsin/67/2005,H3N2,393902,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/Wisconsin/67/2005,H3N2,393902,DBA/2,6 (L.B.),PFU,Avirulent,Low
+10364342,rA/X-31,H3N2,132504,BALB/c,5.2 (L.B.),EID50,Avirulent,Low
+21917963,A/duck/Ukraine/1/1963,H3N8,385580,C57BL/6,6 (L.B.),,Avirulent,Low
+21917963,A/duck/Ukraine/1/1963,H3N8,385580,DBA/2,6 (L.B.),,Avirulent,Low
+16140756,A/Chicken/Indonesia/7/2003,H5N1,430432,BALB/c,7 (L.B.),EID50,Avirulent,Low
+16140756,A/Chicken/Korea/ES/2003,H5N1,432073,BALB/c,7 (L.B.),EID50,Avirulent,Low
+20350372,A/crested eagle/Belgium/01/2004,H5N1,320306,FVB/J,6 (L.B.),TCID50,Avirulent,Low
+19117585,A/duck/Fujian/01/2002,H5N1,274827,BALB/c,0.5 (U.B.),EID50,Virulent,High
+18032512,A/duck/Guangxi/12/2003,H5N1,482239,BALB/c,6.4 (P.E.),EID50,Avirulent,Low
+16140781,A/duck/Guangxi/22/2001,H5N1,274837,BALB/c,6.5 (L.B.),EID50,Avirulent,Low
+18032512,A/duck/Guangxi/27/2003,H5N1,482240,BALB/c,0.6 (P.E.),EID50,Virulent,High
+16140781,A/duck/Guangxi/35/2001,H5N1,274838,BALB/c,1.8 (P.E.),EID50,Virulent,High
+19117585,A/duck/Guangxi/53/2002,H5N1,274840,BALB/c,6.5 (L.B.),EID50,Avirulent,Low
+23027194,A/duck/Minnesota/1525/1981,H5N1,329182,BALB/c,3.5 (P.E.),CCID50,Virulent,Intermediate
+18317917,A/duck/Shandong/093/2004,H5N1,307622,BALB/c,6.2 (P.E.),EID50,Avirulent,Low
+15964604,A/duck/Yokohama/aq10/2003,H5N1,326490,BALB/c,6.97 (P.E.),EID50,Avirulent,Low
+11044127,A/Hong Kong/156/97,H5N1,130763,BALB/c,5.9 (P.E.),EID50,Virulent,Intermediate
+10364342,A/Hong Kong/156/97,H5N1,130763,BALB/c,5.9 (P.E.),EID50,Virulent,Intermediate
+11044127,A/Hong Kong/481/97,H5N1,107423,BALB/c,1.7 (P.E.),EID50,Virulent,High
+11546875,A/Hong Kong/483/1997,H5N1,88104,BALB/c,0.26 (P.E.),PFU,Virulent,High
+11044127,A/Hong Kong/485/1997,H5N1,680692,BALB/c,2.9 (P.E.),EID50,Virulent,High
+10364342,A/Hong Kong/485/1997,H5N1,680692,BALB/c,2.9 (P.E.),EID50,Virulent,High
+11546875,A/Hong Kong/486/97,H5N1,107424,BALB/c,4 (P.E.),PFU,Virulent,Intermediate
+11044127,A/Hong Kong/488/97,H5N1,155222,BALB/c,6.5 (L.B.),EID50,Avirulent,Low
+11044127,A/Hong Kong/491/97,H5N1,155223,BALB/c,2 (P.E.),EID50,Virulent,High
+11044127,A/Hong Kong/503/97,H5N1,155224,BALB/c,2 (P.E.),EID50,Virulent,High
+11044127,A/Hong Kong/507/97,H5N1,155225,BALB/c,6.5 (L.B.),EID50,Avirulent,Low
+11044127,A/Hong Kong/514/97,H5N1,155226,BALB/c,1.5 (U.B.),EID50,Virulent,High
+11044127,A/Hong Kong/516/97,H5N1,155227,BALB/c,1.5 (U.B.),EID50,Virulent,High
+11044127,A/Hong Kong/532/1997,H5N1,88103,BALB/c,1.5 (U.B.),EID50,Virulent,High
+11044127,A/Hong Kong/538/97,H5N1,155219,BALB/c,6.5 (L.B.),EID50,Avirulent,Low
+11044127,A/Hong Kong/542/97,H5N1,155220,BALB/c,1.5 (U.B.),EID50,Virulent,High
+11044127,A/HongKong/97/98,H5N1,88097,BALB/c,6.5 (L.B.),EID50,Avirulent,Low
+21703405,A/Thailand/1(KAN-1)/2004,H5N1,266827,BALB/c,0.3 (P.E.),PFU,Virulent,High
+21703405,A/Thailand/1(KAN-1)/2004,H5N1,266827,C57BL/6,1.8 (P.E.),PFU,Virulent,High
+16140756,A/Thailand/16/2004,H5N1,428669,BALB/c,1.7 (P.E.),EID50,Virulent,High
+16140756,A/Thailand/SP/83/2004,H5N1,427773,BALB/c,5.5 (P.E.),EID50,Virulent,Intermediate
+20181710,A/Vietnam/1203/2004,H5N1,284218,BALB/c,1.3 (P.E.),EID50,Virulent,High
+16140756,A/Vietnam/1204/2004,H5N1,428668,BALB/c,3.8 (P.E.),EID50,Virulent,Intermediate
+29449842,A/aquatic bird/Korea/w81/2005,H5N2,542615,BALB/c,4 (P.E.),PFU,Virulent,Intermediate
+29090366,A/duck/Liaoning/LN/2011,H5N5,1503700,BALB/c,6.25 (P.E.),EID50,Avirulent,Low
+27122581,A/duck/Eastern China/S0322/2014,H5N6,1608684,BALB/c,5 (P.E.),EID50,Virulent,Intermediate
+27122581,A/duck/Eastern China/S0711/2014,H5N6,1608679,BALB/c,5.3 (P.E.),EID50,Virulent,Intermediate
+27122581,A/duck/Eastern China/S0908/2014,H5N6,1608681,BALB/c,5.3 (P.E.),EID50,Virulent,Intermediate
+29535296,A/Environment/Korea/W541/2016,H5N6,1923885,BALB/c,5.5 (P.E.),EID50,Virulent,Intermediate
+27122581,A/goose/Eastern China/S0513/2013,H5N6,1608688,BALB/c,5.3 (P.E.),EID50,Virulent,Intermediate
+29899428,A/Guangzhou/39715/2014,H5N6,1612661,BALB/c,0.7 (P.E.),PFU,Virulent,High
+30291503,A/broiler duck/Korea/Buan2/2014,H5N8,1460490,BALB/c,2.7 (P.E.),TCID50,Virulent,High
+29535296,A/Common Teal/Korea/W555/2017,H5N8,1954199,BALB/c,5.23 (P.E.),EID50,Virulent,Intermediate
+28094780,A/environment/Korea/W468/2014,H5N8,1855218,BALB/c,7.3 (P.E.),PFU,Avirulent,Low
+28094780,A/mallard/Korea/W452/2014,H5N8,1494073,BALB/c,7.5 (P.E.),PFU,Avirulent,Low
+29113821,A/mallard/Shanghai/SH-9/2013,H5N8,1465588,BALB/c,5.75 (P.E.),EID50,Virulent,Intermediate
+17686867,A/Chicken/CT/260413-2/2003,H7N2,542846,BALB/c,7 (L.B.),EID50,Avirulent,Low
+17686867,A/guineafowl/MA/148081-11/02,H7N2,226647,BALB/c,7 (L.B.),EID50,Avirulent,Low
+17686867,A/New York/107/2003,H7N2,519082,BALB/c,7 (L.B.),EID50,Avirulent,Low
+17634234,A/chicken/British Columbia/CN-7/2004,H7N3,1565433,BALB/c,2.4 (P.E.),TCID50,Virulent,High
+17634234,A/chicken/Chile/4322/02,H7N3,244949,BALB/c,5 (L.B.),TCID50,Avirulent,Low
+17634234,A/chicken/Queensland/667/95,H7N3,121451,BALB/c,5 (L.B.),TCID50,Avirulent,Low
+17634234,A/turkey/England/1963,H7N3,402526,BALB/c,0.5 (P.E.),TCID50,Virulent,High
+17686867,A/Chicken/Netherlands/1/2003,H7N7,251307,BALB/c,7 (L.B.),EID50,Avirulent,Low
+17634234,A/Netherlands/219/2003,H7N7,680693,BALB/c,0.8 (P.E.),TCID50,Virulent,High
+16339318,A/seal/Massachusetts/1/1980,H7N7,384493,BALB/c,6 (L.B.),PFU,Avirulent,Low
+29263889,A/Anhui/PA-1/2013,H7N9,1413188,BALB/c,4 (P.E.),TCID50,Virulent,Intermediate
+26391278,A/Anhui/PA-1/2013,H7N9,1413188,C57BL/6,4.5 (P.E.),TCID50,Virulent,Intermediate
+29151586,A/chicken/Guangdong/SD008/2017,H7N9,2026012,BALB/c,7.5 (L.B.),EID50,Avirulent,Low
+29151586,A/chicken/Guangdong/SD008/2017,H7N9,2026012,BALB/c,7.5 (L.B.),EID50,Avirulent,Low
+25320305,A/chicken/Shandong/lx1023/2007,H9N2,560581,BALB/c,9.87 (L.B.),EID50,Avirulent,Low

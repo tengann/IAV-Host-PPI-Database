@@ -1,0 +1,32 @@
+mFamilyID,mSuperfamily,vFamilyID,vSegment,vSCOP_ID,vSuperfamily,score,weight
+46689,Homeodomain-like,HA (49818),Hemagglutinin (HA),49818,Viral protein domain,-3.203243513,9
+48726,Immunoglobulin,HA (49818),Hemagglutinin (HA),49818,Viral protein domain,-0.097163182,4
+57535,Complement control module/SCR domain,NA (50939),Neuraminidase (NA),50939,Sialidases,-2.91556144,9
+49503,Cupredoxins,NA (50939),Neuraminidase (NA),50939,Sialidases,-2.692417889,9
+49785,Galactose-binding domain-like,NA (50939),Neuraminidase (NA),50939,Sialidases,-2.104631224,8
+81296,E set domains,NA (50939),Neuraminidase (NA),50939,Sialidases,-1.903960528,8
+48726,Immunoglobulin,NA (50939),Neuraminidase (NA),50939,Sialidases,-1.043759263,7
+49899,Concanavalin A-like lectins/glucanases,NA (50939),Neuraminidase (NA),50939,Sialidases,-0.082348096,4
+50939,Sialidases,NA (50939),Neuraminidase (NA),50939,Sialidases,2.008062477,2
+50729,PH domain-like,M1 (47220),Matrix protein (M1),47220,alpha-catenin/vinculin-like,-3.608708621,10
+109885,I/LWEQ domain,M1 (47220),Matrix protein (M1),47220,alpha-catenin/vinculin-like,-3.608708621,10
+54928,"RNA-binding domain, RBD",M1 (47220),Matrix protein (M1),47220,alpha-catenin/vinculin-like,-1.999270708,8
+53474,alpha/beta-Hydrolases,M1 (48145),Matrix protein (M1),48145,Influenza virus matrix protein M1,-1.306123528,7
+47220,alpha-catenin/vinculin-like,M1 (47220),Matrix protein (M1),47220,alpha-catenin/vinculin-like,0.639786621,3
+52374,Nucleotidylyl transferase,NS1 (47060),Non-structural protein 1 (NS1),47060,S15/NS1 RNA-binding domain,-4.301855801,11
+55315,L30e-like,NS1 (47060),Non-structural protein 1 (NS1),47060,S15/NS1 RNA-binding domain,-4.301855801,11
+57829,Zn-binding ribosomal proteins,NS1 (47060),Non-structural protein 1 (NS1),47060,S15/NS1 RNA-binding domain,-3.608708621,10
+54995,Ribosomal protein S6,NS1 (47060),Non-structural protein 1 (NS1),47060,S15/NS1 RNA-binding domain,-3.608708621,10
+90229,CCCH zinc finger,NS1 (143021),Non-structural protein 1 (NS1),143021,Ns1 effector domain-like,-2.91556144,9
+54236,Ubiquitin-like,NS1 (47060),Non-structural protein 1 (NS1),47060,S15/NS1 RNA-binding domain,-1.903960528,8
+47060,S15/NS1 RNA-binding domain,NS1 (47060),Non-structural protein 1 (NS1),47060,S15/NS1 RNA-binding domain,-0.612976347,5
+55979,DNA clamp,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,-4.301855801,11
+47807,"5' to 3' exonuclease, C-terminal subdomain",PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,-4.301855801,11
+88723,PIN domain-like,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,-4.301855801,11
+55846,N-acetylmuramoyl-L-alanine amidase-like,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,-4.301855801,11
+50447,Translation proteins,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,-2.355945652,8
+52833,Thioredoxin-like,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,-1.468642457,7
+48726,Immunoglobulin,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,-1.411484043,7
+100879,"Lesion bypass DNA polymerase (Y-family), little finger domain",PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,1.231533687,3
+53098,Ribonuclease H-like,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,2.237730154,2
+56672,DNA/RNA polymerases,PB1 (56672),Polymerase Basic protein 1 (PB1),56672,DNA/RNA polymerases,2.552498701,2
