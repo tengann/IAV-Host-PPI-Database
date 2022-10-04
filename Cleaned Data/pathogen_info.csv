@@ -47,15 +47,15 @@ Pubmed ID,Pathogen,Subtype,TaxonomyID,Mouse Genome,Lethal Dose 50 (LD50),Infecti
 25119465,A/StEtienne/1139/2010,H1N1,1429813,BALB/c,4.2 (P.E.),TCID50,Virulent,Intermediate
 25119465,A/StEtienne/1691/2009,H1N1,990090,BALB/c,2.7 (P.E.),TCID50,Virulent,High
 20350372,A/swine/Iowa/4/1976,H1N1,437342,FVB/J,6 (L.B.),TCID50,Avirulent,Low
-21917963,A/swine/Kansas/77778/2007,H1N1,666651,C57BL/6,2.5 (P.E.),,Virulent,High
-21917963,A/swine/Kansas/77778/2007,H1N1,666651,DBA/2,1 (P.E.),,Virulent,High
+21917963,A/swine/Kansas/77778/2007,H1N1,666651,C57BL/6,2.5 (P.E.),PFU,Virulent,High
+21917963,A/swine/Kansas/77778/2007,H1N1,666651,DBA/2,1 (P.E.),PFU,Virulent,High
 21917963,A/swine/Spain/53207/2004,H1N1,374443,C57BL/6,5.7 (P.E.),PFU,Virulent,Intermediate
 21917963,A/swine/Spain/53207/2004,H1N1,374443,DBA/2,2.2 (P.E.),PFU,Virulent,High
 20592084,A/Tennessee/1-560/2009,H1N1,646491,BALB/c,5 (P.E.),PFU,Virulent,Intermediate
 20181710,A/Texas/15/2009,H1N1,644199,BALB/c,6 (L.B.),EID50,Avirulent,Low
 18468740,A/Wilson-Smith/1933,H1N1,381518,BALB/c,2.3 (P.E.),PFU,Virulent,High
-21917963,A/swine/Spain/40564/2002,H1N2,1176104,C57BL/6,4.7 (P.E.),,Virulent,Intermediate
-21917963,A/swine/Spain/40564/2002,H1N2,1176104,DBA/2,1.3 (P.E.),,Virulent,High
+21917963,A/swine/Spain/40564/2002,H1N2,1176104,C57BL/6,4.7 (P.E.),PFU,Virulent,Intermediate
+21917963,A/swine/Spain/40564/2002,H1N2,1176104,DBA/2,1.3 (P.E.),PFU,Virulent,High
 18468740,A/Aichi/2/68,H3N2,387139,BALB/c,5.85 (P.E.),PFU,Virulent,Intermediate
 21917963,A/Brisbane/10/2007,H3N2,476294,C57BL/6,6 (L.B.),PFU,Avirulent,Low
 21917963,A/Brisbane/10/2007,H3N2,476294,DBA/2,6 (L.B.),PFU,Avirulent,Low
@@ -73,8 +73,8 @@ Pubmed ID,Pathogen,Subtype,TaxonomyID,Mouse Genome,Lethal Dose 50 (LD50),Infecti
 21917963,A/Wisconsin/67/2005,H3N2,393902,C57BL/6,6 (L.B.),PFU,Avirulent,Low
 21917963,A/Wisconsin/67/2005,H3N2,393902,DBA/2,6 (L.B.),PFU,Avirulent,Low
 10364342,rA/X-31,H3N2,132504,BALB/c,5.2 (L.B.),EID50,Avirulent,Low
-21917963,A/duck/Ukraine/1/1963,H3N8,385580,C57BL/6,6 (L.B.),,Avirulent,Low
-21917963,A/duck/Ukraine/1/1963,H3N8,385580,DBA/2,6 (L.B.),,Avirulent,Low
+21917963,A/duck/Ukraine/1/1963,H3N8,385580,C57BL/6,6 (L.B.),PFU,Avirulent,Low
+21917963,A/duck/Ukraine/1/1963,H3N8,385580,DBA/2,6 (L.B.),PFU,Avirulent,Low
 16140756,A/Chicken/Indonesia/7/2003,H5N1,430432,BALB/c,7 (L.B.),EID50,Avirulent,Low
 16140756,A/Chicken/Korea/ES/2003,H5N1,432073,BALB/c,7 (L.B.),EID50,Avirulent,Low
 20350372,A/crested eagle/Belgium/01/2004,H5N1,320306,FVB/J,6 (L.B.),TCID50,Avirulent,Low
