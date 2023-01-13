@@ -34,6 +34,9 @@ def create_contact_page():
         ], style=styles['contacts-main-container']),
         
         html.Div([
+            html.P('If you use IAV-Host PPI web server as part of your workflow, please consider citing our paper: \n' + 
+                'T. A. Ng, S. Rashid, and C. K. Kwoh, "Virulence Network of Interacting Influenza-Host Protein Domains," bioRxiv, p. 2022.10.11.511722, 2022, doi: 10.1101/2022.10.11.511722.'
+                , style=styles['para-txt']),
             html.P('Last updated: 12 January 2023', style=styles['para-txt']),
         ], style=styles['contacts-sub-container']),
     ])

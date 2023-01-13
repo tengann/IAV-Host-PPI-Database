@@ -35,7 +35,7 @@ def create_home_page():
             ## Centre: Header
             html.Div([
                 # DashIconify(icon="healthicons:virus-research", width=60, height=60, color='#323232'), ## Placeholder, Camouflage icon
-                html.H1("Online Analytic for IAV-Mouse PPI Analysis"),
+                html.H1("Virulence Network for IAV-Mouse PPI Analysis"),
             ], id='home-page-header', style=styles['nav-bar-header-div']), 
 
             ## Right: Button(s)
@@ -80,7 +80,7 @@ def create_home_page():
 
             ## Content Summary
             html.Div([
-                html.P('57 journal publications\n 14 IAV subtypes, 109 IAV strains, 2419 mouse proteins', style=styles['home-txt']), ## 'para-txt'
+                html.P('57 journal publications\n 14 IAV subtypes, 109 IAV strains, 2419 mouse proteins\n 1936 domain-domain interactions', style=styles['home-txt']), ## 'para-txt'
             ], style={'margin-top':'20px', 'text-align': 'center'})
 
 

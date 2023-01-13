@@ -32,7 +32,7 @@ def create_main_content():
             ## Centre: Header
             html.Div([
                 DashIconify(icon="healthicons:virus-research", width=60, height=60), 
-                html.H1("Online Analytic for IAV-Mouse PPI Analysis"),
+                html.H1("Virulence Network for IAV-Mouse PPI Analysis"),
             ], id='home-page-header', style=styles['nav-bar-header-div']),
 
             ## Right: Button(s)
