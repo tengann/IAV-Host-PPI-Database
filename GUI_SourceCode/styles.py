@@ -1,4 +1,13 @@
+### margin ## top/bottom   left/right (w/ respect to Parent Div)
+
+### 'display' : 'flex', #! important to use justify-content/align-items
+### 'justify-content' : 'center', ## center horizontally
+### 'align-items' : 'center', ## center vertically
+### 'padding' ### (within Div)
+
 styles = {
+    
+    ### Standard styles
     'webpage' : {
         'width' : '100%',
         'height' : 'auto',
@@ -6,7 +15,7 @@ styles = {
         'font-family' : 'Helvetica, sans-serif',
         'display' : 'flex',
         'flex-direction' : 'column',
-        'justify-content' : 'center', ## center horizontally
+        'justify-content' : 'center', 
     },
 
     ### Format text
@@ -29,23 +38,24 @@ styles = {
     },
 
     ### Homepage
-    'home-page-header': {
-        # 'border' : '4px #9DC183 solid',
-        'width' : '100%',
-        'padding' : '20px',
-        'textAlign': 'center',
-        'font-style' : 'italic',
-        'backgroundColor' : '#323232', ## correspond to LD50 info-table
-        'color': 'white',
+    'home-page-container':{
+        'margin-top':'10px',
+        'display' : 'flex', 
+        'flex-direction' : 'column',
+        'justify-content' : 'center', 
+        'align-items' : 'center', 
+        'margin' : 'auto 25%', 
     },
 
-    'home-page-container':{
-        # 'border' : '4px #9DC183 solid',
-        'margin' : '10% 25%',
-        'display' : 'flex', #! important to use justify-content/align-items
+    'icon-container':{
+        'width': '50%',
+        'margin': '10px auto', ## *
+        'padding' : '20px', ## *
+        'display' : 'flex',
         'flex-direction' : 'column',
-        'justify-content' : 'center', ## center horizontally
-        'align-items' : 'center', ## center vertically
+        'justify-content' : 'center',
+        'align-items' : 'center',
+        # 'border': '2px black dashed',
     },
 
     'home-label':{
@@ -59,6 +69,15 @@ styles = {
         'height': '40px', 
         'vertical-align': 'middle',
         'font-size' : '14px',
+    },
+
+    'home-txt':{
+        'font-family' : 'Helvetica, sans-serif',
+        'font-weight' : 'bold',
+        'font-size' : '14px',
+        'white-space': 'pre-line', 
+        'display': 'inline-block',
+        'vertical-align': 'middle',
     },
 
     'label':{
@@ -96,26 +115,38 @@ styles = {
     ## Navigation bar
     'nav-bar':{
         'width' : '100%',
-        'padding' : '20px',
         'backgroundColor' : '#323232', ## correspond to LD50 info-table
         'display':'flex',
         'align-items' : 'center',
+        # 'padding' : '20px',
     },
 
-    'nav-bar-header':{
-        'float' : 'left',
-        'width' : '68%',
-        'margin-left':'15%',
+    ## Centre: Header
+    'nav-bar-header-div':{
+        'width' : '56%',
         'color': 'white',
         'textAlign': 'center',
         'font-style' : 'italic',
+        # 'border':'2px solid white',
     },
 
-    'nav-bar-btn-div':{
-        'float':'right',
-        'margin-left':'1%',
-        'margin-right':'5%',
-        'width':'10%'
+    ## Left: Placeholder
+    'nav-bar-L-sub-div':{ 
+        'width' : '22%', 
+        # 'border':'2px solid white',
+    },
+
+    ## Right: Button(s)
+    'nav-bar-R-sub-div':{
+        'width' : '22%',
+        'display':'flex',
+        'align-items' : 'center',
+        # 'border':'2px solid white',
+    },
+
+    'nav-bar-btn-div':{ ## In 'nav-bar-R-sub-div'
+        'padding' : '10px',
+        # 'border':'2px solid #99DDCC',
     },
 
     'nav-bar-btn':{
@@ -128,7 +159,7 @@ styles = {
         'border':'2px solid #99DDCC',
         'margin-left':'10px',
     },
-    
+
     'header':{ ## Container for pathogen-header and LD50 info table
         'margin' : '10px auto', ## Used for Centering blocks
     },
@@ -172,7 +203,6 @@ styles = {
         'align-items' : 'center', ## center vertically
         # 'overflow': 'auto',
     },
-
 
     ### Body
     'left-panel':{
@@ -337,4 +367,90 @@ styles = {
         'height' : '70px',
         'width' : '180px'
     },
+
+    ## Contact Page
+    'contacts-main-container':{
+        'margin-top':'20px',
+        'margin': '10px auto',
+        'padding' : '20px',
+        'display':'flex',
+        'justify-content' : 'center',
+        'width' : '100%',
+        'backgroundColor' : '#323232',
+        'color': 'white',
+    },
+
+    'contacts-sub-container':{
+        'margin' : '10% 25%',
+        'display' : 'flex',
+        'flex-direction' : 'column',
+        'justify-content' : 'center',
+        'align-items' : 'center',
+        'text-align': 'center',
+        'margin' : '15px auto',
+        'padding' : '10px',
+        'white-space': 'pre-line',
+        'width': '50%',
+        # 'border': '2px white dashed',
+    }, 
+
+    ### Help page
+    'hp-L-main-div':{
+        'float':'left',
+        'width':'50%',
+        'display' : 'flex',
+        'flex-direction':'column',
+        'justify-content' : 'center', 
+        'align-items' : 'center', 
+        'padding' : '10px', 
+        # 'border': '2px pink dashed',
+    },
+
+    'hp-R-main-div':{
+        'float':'right',
+        'width':'50%',
+        'display' : 'flex',
+        'flex-direction':'column',
+        'justify-content' : 'center', 
+        'align-items' : 'center', 
+        'padding' : '10px', 
+        # 'border': '2px pink dashed',
+    },
+
+    'hp-content-header-div':{
+        'width':'95%',
+        'height':'10%',
+        'text-align': 'center',
+        'border': '2px #99DDCC dashed', ## pink
+    },
+
+    ## For descriptions
+    'hp-LR-content-top-div':{
+        'width':'95%',
+        'height':'18%', ## 18%
+        'margin-top':'10px',
+        'border': '2px #97B3D0 dashed', ## blue
+        'font-size' : '20px',
+        'font-weight' : 'bold',
+        'white-space' : 'pre-line',
+    },
+
+    ## For Links 
+    'hp-L-content-btm-div':{
+        'width':'95%',
+        'margin-top':'10px',
+        'border': '2px #97B3D0 dashed', ## blue
+    },
+
+    ## For flowchart
+    'hp-R-content-btm-div':{
+        'width':'95%',
+        # 'height':'70%',
+        'margin-top':'10px',
+        'display' : 'flex',
+        'justify-content' : 'center', 
+        'align-items' : 'center', 
+        'overflow': 'auto',
+        'border': '2px #97B3D0 dashed', ## blue
+    }
 }

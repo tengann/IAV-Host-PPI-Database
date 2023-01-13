@@ -1,15 +1,16 @@
 ## Page 1
+# from importlib.resources import path
 
 # import dash_core_components as dcc
 # import dash_html_components as html
 
-from importlib.resources import path
-import dash
+# import dash
 from dash import html
 from dash import dcc
 from dash.dependencies import Input, Output
-from homepage import create_home_page
+from home_page import create_home_page
 from main_page import create_main_content
+from about_help_page import create_help_page
 from maindash import app
 
 server = app.server
@@ -32,15 +33,12 @@ app.layout = html.Div([
 )
 def display_page(pathname):
 
-    if pathname == '/home':
+    if pathname == '/home': ## page to display
         return create_home_page()
-    elif pathname== '/main-content':
+    elif pathname == '/help':
+        return create_help_page()
+    elif pathname== '/search':
         return create_main_content()
-
-    # if pathname == '/main-content':
-    #     return create_main_content()
-    # else:
-    #     return create_home_page()
 
 if __name__ == '__main__':
     app.run_server(debug=False)

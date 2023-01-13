@@ -4,6 +4,7 @@
 
 from dash import html
 from dash import dcc
+from dash_iconify import DashIconify
 import dash_bootstrap_components as dbc
 
 from styles import styles
@@ -13,37 +14,59 @@ from virus_node_info import display_v_node_properties
 from mouse_node_info import display_m_node_properties
 from footer import create_footer
 
+from contact_page import create_contact_page
+
 '''
     Create navigation bar
 '''
-def create_navbar():
-    # Create the Navbar using Dash Bootstrap Components
-    navbar = html.Div([
-        
-        html.Div([
-            html.H1("Online Analytic for Host-Pathogen Protein Interactions Analysis"),
-        ], style=styles['nav-bar-header']),
-
-        html.Div([
-            dbc.NavbarBrand(
-                dcc.Link(
-                    dbc.Button(
-                        children='HOME', 
-                        style=styles['nav-bar-btn'] ## default size
-                    ),
-                    href='/home'
-                ),
-            ),
-        ], style=styles['nav-bar-btn-div']),
-
-    ], style=styles['nav-bar'])
-
-    return navbar
-
 def create_main_content():
+    
     return html.Div([
         
-        create_navbar(),
+        ## Navigation bar
+        html.Div([
+
+            ## Left: Placeholder Div
+            html.Div(style=styles['nav-bar-L-sub-div']),
+
+            ## Centre: Header
+            html.Div([
+                DashIconify(icon="healthicons:virus-research", width=60, height=60), 
+                html.H1("Online Analytic for IAV-Mouse PPI Analysis"),
+            ], id='home-page-header', style=styles['nav-bar-header-div']),
+
+            ## Right: Button(s)
+            html.Div([
+
+                ## Home Button
+                html.Div([
+                    dbc.NavbarBrand( ## Call out attention to a brand name or site title within a navbar
+                        dcc.Link(
+                            dbc.Button(
+                                children='Home', 
+                                style=styles['nav-bar-btn']
+                            ),
+                            href='/home'
+                        ),
+                    ),
+                ], style=styles['nav-bar-btn-div']),
+                
+                ## Help Button
+                html.Div([
+                    dbc.NavbarBrand( 
+                        dcc.Link(
+                            dbc.Button(
+                                children='Help', 
+                                style=styles['nav-bar-btn']
+                            ),
+                            href='/help'
+                        ),
+                    ),
+                ],style=styles['nav-bar-btn-div']), 
+
+            ], style=styles['nav-bar-R-sub-div']),
+
+        ], style=styles['nav-bar']),
 
         ## main-container
         html.Div([
@@ -97,7 +120,10 @@ def create_main_content():
 
             # ], id='footer', style=styles['footer']),
 
-        ], id='main-container', style=styles['main-container'])
+        ], id='main-container', style=styles['main-container']),
+
+        ## Contacts Panel
+        create_contact_page(),
         
         
     ], id='main-pg', style=styles['webpage'])
