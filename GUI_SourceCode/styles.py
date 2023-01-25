@@ -71,7 +71,7 @@ styles = {
         'font-size' : '14px',
     },
 
-    'home-txt':{
+    'home-txt':{ ## Summary statistics
         'font-family' : 'Helvetica, sans-serif',
         'font-weight' : 'bold',
         'font-size' : '14px',
@@ -123,7 +123,7 @@ styles = {
 
     ## Centre: Header
     'nav-bar-header-div':{
-        'width' : '56%',
+        'width' : '55%',
         'color': 'white',
         'textAlign': 'center',
         'font-style' : 'italic',
@@ -132,16 +132,16 @@ styles = {
 
     ## Left: Placeholder
     'nav-bar-L-sub-div':{ 
-        'width' : '22%', 
-        # 'border':'2px solid white',
+        'width' : '35%', ## 
+        # 'border':'2px solid pink'
     },
 
     ## Right: Button(s)
     'nav-bar-R-sub-div':{
-        'width' : '22%',
+        'width' : '35%', 
         'display':'flex',
         'align-items' : 'center',
-        # 'border':'2px solid white',
+        # 'border':'2px solid pink',
     },
 
     'nav-bar-btn-div':{ ## In 'nav-bar-R-sub-div'

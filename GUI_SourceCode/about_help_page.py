@@ -74,19 +74,18 @@ def create_help_page():
                 ## Top
                 html.Div([
                     html.P(
-                    'This IAV-Host PPI web server presents a comprehensive network of predicted domain-domain interaction(s) (DDI) between ' + 
-                    'Influenza A virus (IAV) and mouse host proteins, that will allow the systematic study of disease factors ' + 
-                    'by taking the virulence information (i.e., median lethal dose (LD50)) into account. ' +
-                    'From a previously published dataset involving lethal dose studies of IAV infections in mice, an interacting domain network of viral and mouse protein domains ' + 
-                    'as nodes with weighted edges was constructed. ' + 
-                    'The edges were scored with Domain Interaction Statistical Potential (DISPOT) to indicate putative DDI.' + 
+                    'In IAV-Mouse PPI web server, a comprehensive virulence network of predicted domain-domain interaction(s) (DDI) between ' + 
+                    'Influenza A virus (IAV) and mouse host proteins was presented. ' +
+                    'IAV-Mouse PPI web server built on a previously published dataset involving lethal dose studies of IAV infections in mice ' + 
+                    'and took into account strain-specific virulence levels (i.e., median lethal dose (LD50)).' + 
                     '\n\n' + 
-                    'The network will aid IAV disease modeling by providing strain-specific virulence levels with interacting protein domains. ' +
-                    'It can possibly contribute to computational methods for uncovering IAV infection mechanisms mediated through protein domain interactions between ' +
-                    'viral and host proteins.'
-                    '\n\n' +
                     'SUPERFAMILY 2.0 sequence search was used to map regions of an amino acid sequence to at least one Structural Classification of Proteins (SCOP) domain(s) ' +
-                    'using the SUPERFAMILY hidden Markov models.'
+                    'using the SUPERFAMILY hidden Markov models. ' + 
+                    'Then, Domain Interaction Statistical Potential (DISPOT) was applied to determine and score putative DDIs.' + 
+                    '\n\n' + 
+                    'Ultimately, IAV-Mouse PPI web server allows the systematic study of disease factors, aids IAV disease modeling and ' + 
+                    'can possibly contribute to computational methods for uncovering IAV infection mechanisms ' + 
+                    'mediated through protein domain interactions between viral and host proteins.'
                     ),
                 ], style=styles['hp-LR-content-top-div']),
 
@@ -128,7 +127,7 @@ def create_help_page():
                     
                     html.Div([
                         dcc.Link(
-                            children = 'IAV-Host PPI web server source code',
+                            children = 'IAV-Mouse PPI web server source code',
                             href='https://github.com/tengann/IAV-Host-PPI-Database', 
                             target='https://github.com/tengann/IAV-Host-PPI-Database'
                         , style={'font-size' : '14px'}),
@@ -136,7 +135,7 @@ def create_help_page():
 
                     html.Div([
                         dcc.Link(
-                            children = 'IAV-Host PPI web server manuscript (Preprint)',
+                            children = 'IAV-Mouse PPI web server manuscript (Preprint)',
                             href='https://www.biorxiv.org/content/10.1101/2022.10.11.511722v1', 
                             target='https://www.biorxiv.org/content/10.1101/2022.10.11.511722v1'
                         , style={'font-size' : '14px'}),
@@ -153,8 +152,8 @@ def create_help_page():
 
                 html.Div([
                     html.P(
-                        'IAV-Host PPI web server includes various features, namely, browsing via IAV subtype and strain to view information collected from literature searchers, ' + 
-                        'an interactive network graph with accompanying information on node (IAV & mouse) and edge (interacting IAV-mouse domain pairs) attributes, ' + 
+                        'IAV-Mouse PPI web server includes various features, namely, browsing via IAV subtype and strain to view information collected from literature searches, ' + 
+                        'an interactive network graph with accompanying information on node (IAV & mouse SCOP domain) and edge (interacting IAV-mouse domain pairs) attributes, ' + 
                         'as well as amino acid sequences extracted from UniProt Knowledgebase(KB)/Proteomes database.'  
                     ),
                 ], style=styles['hp-LR-content-top-div']),
